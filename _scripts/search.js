@@ -4,6 +4,11 @@
   match if: all terms AND at least one phrase AND at least one tag
 */
 {
+  const getLang = () => document.documentElement.dataset.lang || "zh";
+  const getDict = (lang) => (window.I18N || {})[lang] || {};
+  const resolveKey = (key, lang) =>
+    key.split(".").reduce((value, part) => value && value[part], getDict(lang));
+
   // elements to filter
   const elementSelector = ".card, .citation, .post-excerpt";
   // search box element
@@ -129,6 +134,12 @@
   // update info box based on query and results
   const updateInfoBox = (query, x, n) => {
     const boxes = document.querySelectorAll(infoBoxSelector);
+    const lang = getLang();
+    const template =
+      resolveKey("search.show_results", lang) ||
+      "Showing {shown} of {total} results";
+    const clearText =
+      resolveKey("search.clear_search", lang) || "Clear search";
 
     if (query.trim()) {
       // show all info boxes
@@ -136,8 +147,11 @@
 
       // info template
       let info = "";
-      info += `Showing ${x.toLocaleString()} of ${n.toLocaleString()} results<br>`;
-      info += "<a href='./'>Clear search</a>";
+      info +=
+        template
+          .replace("{shown}", x.toLocaleString())
+          .replace("{total}", n.toLocaleString()) + "<br>";
+      info += `<a href='./'>${clearText}</a>`;
 
       // set info HTML string
       boxes.forEach((el) => (el.innerHTML = info));
@@ -212,4 +226,6 @@
   window.addEventListener("load", searchFromUrl);
   // after tags load
   window.addEventListener("tagsfetched", searchFromUrl);
+  // after language changes
+  window.addEventListener("languagechange", searchFromUrl);
 }
