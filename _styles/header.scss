@@ -112,6 +112,26 @@ nav > a:hover {
   color: var(--primary);
 }
 
+.lang-toggle {
+  margin-left: 6px;
+  padding: 4px 12px;
+  border: 1px solid var(--text);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text);
+  font-family: var(--heading);
+  font-size: var(--small);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition), border-color var(--transition);
+}
+
+.lang-toggle:hover {
+  background: var(--text);
+  color: var(--background);
+}
+
 header:not([data-big]) {
   @media (max-width: $collapse) {
     justify-content: flex-end;

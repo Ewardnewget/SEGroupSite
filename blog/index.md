@@ -1,14 +1,15 @@
 ---
 title: Blog
+i18n_title: blog.title
+i18n_description: blog.description
 nav:
   order: 4
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}<span data-i18n="blog.title">{% include i18n-text.html key="blog.title" %}</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<p data-i18n="blog.intro">{% include i18n-text.html key="blog.intro" %}</p>
 
 {% include section.html %}
 

@@ -1,29 +1,43 @@
 {% assign filename = page.path | split: "/" | last %}
-{% if page.name and page.name != filename %}
-  {% assign title = page.name %}
+
+{% capture site_title %}{% include i18n-text.html key="site.title" %}{% endcapture %}
+{% assign site_title = site_title | strip | xml_escape %}
+
+{% capture site_subtitle %}{% include i18n-text.html key="site.subtitle" %}{% endcapture %}
+{% assign site_subtitle = site_subtitle | strip %}
+
+{% if page.i18n_title %}
+  {% capture title %}{% include i18n-text.html key=page.i18n_title %}{% endcapture %}
 {% elsif page.title %}
   {% assign title = page.title %}
+{% elsif page.name and page.name != filename %}
+  {% assign title = page.name %}
 {% else %}
-  {% assign title = nil %}
+  {% assign title = site_title %}
 {% endif %}
 
-{% assign title = title | xml_escape %}
+{% assign title = title | strip | xml_escape %}
 
 {% assign fulltitle = "" | split: "," %}
 {% if title and title != "" %}
   {% assign fulltitle = fulltitle | push: title %}
 {% endif %}
-{% if site.title and site.title != "" %}
-  {% assign fulltitle = fulltitle | push: site.title %}
+{% if site_title and site_title != "" %}
+  {% assign fulltitle = fulltitle | push: site_title %}
 {% endif %}
 {% assign fulltitle = fulltitle | join: " | " %}
 
-{% assign subtitle = site.subtitle %}
-
-{% assign description = page.description | default: site.description %}
-{% if site.subtitle %}
+{% if page.i18n_description %}
+  {% capture description %}{% include i18n-text.html key=page.i18n_description %}{% endcapture %}
+{% elsif page.description %}
+  {% assign description = page.description %}
+{% else %}
+  {% capture description %}{% include i18n-text.html key="site.description" %}{% endcapture %}
+{% endif %}
+{% assign description = description | strip %}
+{% if site_subtitle and site_subtitle != "" %}
   {% capture description -%}
-    {{ site.subtitle }}. {{ description }}
+    {{ site_subtitle }}. {{ description }}
   {%- endcapture %}
 {% endif %}
 {% capture url -%}
@@ -55,11 +69,11 @@
 <meta name="description" content="{{ description }}">
 
 <meta property="og:title" content="{{ title }}">
-<meta property="og:site_title" content="{{ site.title | xml_escape }}">
+<meta property="og:site_title" content="{{ site_title }}">
 <meta property="og:description" content="{{ description }}">
 <meta property="og:url" content="{{ url }}">
 <meta property="og:image" content="{{ share }}">
-<meta property="og:locale" content="en_US">
+<meta property="og:locale" content="zh_CN">
 
 <meta property="twitter:title" content="{{ title }}">
 <meta property="twitter:description" content="{{ description }}">

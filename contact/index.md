@@ -1,15 +1,15 @@
 ---
 title: Contact
+i18n_title: contact.title
+i18n_description: contact.description
 nav:
   order: 5
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}<span data-i18n="contact.title">{% include i18n-text.html key="contact.title" %}</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<p data-i18n="contact.intro">{% include i18n-text.html key="contact.intro" %}</p>
 
 {%
   include button.html
@@ -26,7 +26,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
+  i18nTooltip="contact.location_tooltip"
+  tooltip="{% include i18n-text.html key='contact.location_tooltip' %}"
   link="https://www.google.com/maps"
 %}
 
@@ -37,7 +38,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  i18nCaption="contact.figure_caption"
 %}
 
 {% endcapture %}
@@ -47,7 +48,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  i18nCaption="contact.figure_caption"
 %}
 
 {% endcapture %}
@@ -57,21 +58,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+<span data-i18n="contact.col1">{% include i18n-text.html key="contact.col1" %}</span>
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+<span data-i18n="contact.col2">{% include i18n-text.html key="contact.col2" %}</span>
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+<span data-i18n="contact.col3">{% include i18n-text.html key="contact.col3" %}</span>
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}

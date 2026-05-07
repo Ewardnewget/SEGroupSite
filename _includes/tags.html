@@ -18,10 +18,13 @@
     {% endif %}
   >
     {% for tag in tags %}
+      {% capture tag_tooltip %}{% include i18n-text.html key="search.tags_tooltip" %}{% endcapture %}
       <a
         href="{{ link | relative_url }}?search=&quot;tag: {{ tag }}&quot;"
         class="tag"
-        data-tooltip="Show items with the tag &quot;{{ tag }}&quot;"
+        data-tag="{{ tag | xml_escape }}"
+        data-i18n-tooltip-template="search.tags_tooltip"
+        data-tooltip="{{ tag_tooltip | replace: '{tag}', tag | xml_escape }}"
       >
         {{ tag }}
       </a>

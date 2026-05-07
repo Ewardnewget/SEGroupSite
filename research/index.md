@@ -1,24 +1,25 @@
 ---
 title: Research
+i18n_title: research.title
+i18n_description: research.description
 nav:
   order: 1
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}<span data-i18n="research.title">{% include i18n-text.html key="research.title" %}</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<p data-i18n="research.intro">{% include i18n-text.html key="research.intro" %}</p>
 
 {% include section.html %}
 
-## Highlighted
+## <span data-i18n="research.highlighted">{% include i18n-text.html key="research.highlighted" %}</span>
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
 
-## All
+## <span data-i18n="research.all">{% include i18n-text.html key="research.all" %}</span>
 
 {% include search-box.html %}
 

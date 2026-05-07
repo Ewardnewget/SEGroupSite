@@ -1,5 +1,10 @@
 {% assign button = include %}
 {% assign button = button | hash_default: site.data.types[include.type] %}
+{% assign i18n_key = include.i18n %}
+{% if i18n_key %}
+  {% capture i18n_text %}{% include i18n-text.html key=i18n_key %}{% endcapture %}
+  {% assign button = button | hash_default: {"text": i18n_text} %}
+{% endif %}
 
 {% if button.link or button.icon or button.text %}
   <div class="button-wrapper">
@@ -9,15 +14,26 @@
       {% if button.tooltip %}
         data-tooltip="{{ button.tooltip | xml_escape }}"
       {% endif %}
+      {% if include.i18nTooltip %}
+        data-i18n-tooltip="{{ include.i18nTooltip }}"
+        data-tooltip="{% include i18n-text.html key=include.i18nTooltip %}"
+      {% endif %}
       data-style="{{ include.style }}"
       {% if include.flip %}
         data-flip
       {% endif %}
-      aria-label="{{ button.tooltip | default: button.icon | default: "button" | regex_strip }}"
+      {% if include.i18nAria %}
+        data-i18n-aria="{{ include.i18nAria }}"
+        aria-label="{% include i18n-text.html key=include.i18nAria %}"
+      {% else %}
+        aria-label="{{ button.tooltip | default: button.icon | default: "button" | regex_strip }}"
+      {% endif %}
     >
       {% include icon.html icon=button.icon %}
       {% if button.text and button.text != "" %}
-        <span>{{ button.text }}</span>
+        <span{% if include.i18n %} data-i18n="{{ include.i18n }}"{% endif %}>
+          {{ button.text }}
+        </span>
       {% endif %}
     </a>
   </div>

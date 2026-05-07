@@ -1,15 +1,15 @@
 ---
 title: Team
+i18n_title: team.title
+i18n_description: team.description
 nav:
   order: 3
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}<span data-i18n="team.title">{% include i18n-text.html key="team.title" %}</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<p data-i18n="team.intro">{% include i18n-text.html key="team.intro" %}</p>
 
 {% include section.html %}
 
@@ -18,17 +18,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<p data-i18n="team.section_intro">{% include i18n-text.html key="team.section_intro" %}</p>
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" i18nCaption="team.gallery_caption" %}
+{% include figure.html image="images/photo.jpg" i18nCaption="team.gallery_caption" %}
+{% include figure.html image="images/photo.jpg" i18nCaption="team.gallery_caption" %}
 
 {% endcapture %}
 

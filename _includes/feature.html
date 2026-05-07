@@ -4,23 +4,29 @@
     data-flip
   {% endif %}
 >
+  {% assign feature_title = include.title %}
+  {% if include.i18nTitle %}
+    {% capture feature_title %}{% include i18n-text.html key=include.i18nTitle %}{% endcapture %}
+  {% endif %}
   <a
     {% if include.link %}
       href="{{ include.link | relative_url | uri_escape }}"
     {% endif %}
     class="feature-image"
-    aria-label="{{ include.title | default: "feature link" | regex_strip }}"
+    aria-label="{{ feature_title | default: "feature link" | regex_strip }}"
   >
     <img
       src="{{ include.image | relative_url | uri_escape }}"
       loading="lazy"
-      alt="{{ include.title | default: "feature image" | regex_strip }}"
+      alt="{{ feature_title | default: "feature image" | regex_strip }}"
       {% include fallback.html %}
     >
   </a>
   <div class="feature-text">
-    {% if include.title %}
-      <p class="feature-title">{{ include.title }}</p>
+    {% if feature_title and feature_title != "" %}
+      <p class="feature-title"{% if include.i18nTitle %} data-i18n="{{ include.i18nTitle }}"{% endif %}>
+        {{ feature_title }}
+      </p>
     {% endif %}
     {{ include.text | markdownify }}
   </div>

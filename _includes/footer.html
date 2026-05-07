@@ -25,18 +25,20 @@
 
   <div>
     &copy; {{ site.time | date: "%Y" }}
-    {{ site.title }}
-    &nbsp; | &nbsp; Built with
+    <span data-i18n="site.title">{% include i18n-text.html key="site.title" %}</span>
+    &nbsp; | &nbsp; <span data-i18n="footer.built_with">{% include i18n-text.html key="footer.built_with" %}</span>
     <a href="https://github.com/greenelab/lab-website-template">
-      Lab Website Template
+      <span data-i18n="footer.template_name">{% include i18n-text.html key="footer.template_name" %}</span>
     </a>
   </div>
 
   <input
     type="checkbox"
     class="dark-toggle"
-    data-tooltip="Dark mode"
-    aria-label="toggle dark mode"
+    data-i18n-tooltip="footer.dark_mode"
+    data-tooltip="{% include i18n-text.html key='footer.dark_mode' %}"
+    data-i18n-aria="footer.dark_mode"
+    aria-label="{% include i18n-text.html key='footer.dark_mode' %}"
     oninput="onDarkToggleChange(event)"
   >
 </footer>

@@ -1,10 +1,14 @@
 <figure class="figure">
+  {% assign figure_caption = include.caption %}
+  {% if include.i18nCaption %}
+    {% capture figure_caption %}{% include i18n-text.html key=include.i18nCaption %}{% endcapture %}
+  {% endif %}
   <a
     {% if include.link %}
       href="{{ include.link | relative_url | uri_escape }}"
     {% endif %}
     class="figure-image"
-    aria-label="{{ include.caption | default: "figure link" | regex_strip }}"
+    aria-label="{{ figure_caption | default: "figure link" | regex_strip }}"
   >
     <img
       src="{{ include.image | relative_url | uri_escape }}"
@@ -12,14 +16,14 @@
         width: {{ include.width | default: "auto" }};
         max-height: {{ include.height | default: "unset" }};
       "
-      alt="{{ include.caption | default: "figure image" | regex_strip }}"
+      alt="{{ figure_caption | default: "figure image" | regex_strip }}"
       loading="lazy"
       {% include fallback.html %}
     >
   </a>
-  {% if include.caption %}
-    <figcaption class="figure-caption">
-      {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
+  {% if figure_caption %}
+    <figcaption class="figure-caption"{% if include.i18nCaption %} data-i18n="{{ include.i18nCaption }}"{% endif %}>
+      {{ figure_caption | markdownify | remove: "<p>" | remove: "</p>" }}
     </figcaption>
   {% endif %}
 </figure>

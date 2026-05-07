@@ -1,22 +1,25 @@
 ---
+i18n_title: home.title
+i18n_description: home.intro
 ---
 
-# Ewardnewget's Website
+# <span data-i18n="home.title">{% include i18n-text.html key="home.title" %}</span>
 
-An engaging 1-3 sentence description of your lab.
+<p data-i18n="home.intro">{% include i18n-text.html key="home.intro" %}</p>
 
 {% include section.html %}
 
-## Highlights
+## <span data-i18n="home.highlights">{% include i18n-text.html key="home.highlights" %}</span>
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<p data-i18n="home.research_text">{% include i18n-text.html key="home.research_text" %}</p>
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text=site.data.i18n.zh.home.research_button
+  i18n="home.research_button"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,18 +31,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title=site.data.i18n.zh.home.research_title
+  i18nTitle="home.research_title"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<p data-i18n="home.projects_text">{% include i18n-text.html key="home.projects_text" %}</p>
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text=site.data.i18n.zh.home.projects_button
+  i18n="home.projects_button"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,7 +56,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title=site.data.i18n.zh.home.projects_title
+  i18nTitle="home.projects_title"
   flip=true
   style="bare"
   text=text
@@ -59,12 +65,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<p data-i18n="home.team_text">{% include i18n-text.html key="home.team_text" %}</p>
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text=site.data.i18n.zh.home.team_button
+  i18n="home.team_button"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +83,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title=site.data.i18n.zh.home.team_title
+  i18nTitle="home.team_title"
   text=text
 %}
