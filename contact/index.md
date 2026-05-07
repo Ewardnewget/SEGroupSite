@@ -23,11 +23,12 @@ nav:
   text="(555) 867-5309"
   link="+1-555-867-5309"
 %}
+{% capture location_tooltip %}{% include i18n-text.html key='contact.location_tooltip' %}{% endcapture %}
 {%
   include button.html
   type="address"
   i18nTooltip="contact.location_tooltip"
-  tooltip="{% include i18n-text.html key='contact.location_tooltip' %}"
+  tooltip=location_tooltip
   link="https://www.google.com/maps"
 %}
 
