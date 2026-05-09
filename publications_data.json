@@ -1,0 +1,2996 @@
+[
+  {
+    "title": "Validating Generalist Robots with Situation Calculus and STL Falsification",
+    "year": 2026,
+    "venue": "arXiv preprint arXiv:2601.03038 , 2026",
+    "abbr": "N/A",
+    "authors": [
+      "C Li",
+      "R Yan",
+      "CH Cheng",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Runtime Monitoring Abnormalities in Object Detection With Spatial and Temporal Abstractions",
+    "year": 2026,
+    "venue": "Software: Practice and Experience 56 (2), 171-189 , 2026",
+    "abbr": "SPE",
+    "authors": [
+      "R Yan",
+      "C Li",
+      "R Zheng",
+      "CH Cheng"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "OSmartPro : a large language model-assisted option fuzzing approach",
+    "year": 2026,
+    "venue": "Cybersecurity 9 (1), 133 , 2026",
+    "abbr": "N/A",
+    "authors": [
+      "K Wang",
+      "M Chen",
+      "L He",
+      "Y Wang",
+      "P Su",
+      "JY Chen",
+      "Y Cai",
+      "B Zhang",
+      "C Feng",
+      "..."
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Efficient Code Analysis via Graph-Guided Large Language Models",
+    "year": 2026,
+    "venue": "arXiv preprint arXiv:2601.12890 , 2026",
+    "abbr": "N/A",
+    "authors": [
+      "H Gao",
+      "T Peng",
+      "B Cui",
+      "H Huang",
+      "F Wu",
+      "J Zhao",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A Closer Look at the Application of Causal Inference in Graph Representation Learning",
+    "year": 2026,
+    "venue": "arXiv preprint arXiv:2604.08890 , 2026",
+    "abbr": "N/A",
+    "authors": [
+      "H Gao",
+      "K Li",
+      "H Hong",
+      "B Cui",
+      "F Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Training deep neural networks with virtual smoothing classes",
+    "year": 2025,
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (21), 23036 … , 2025",
+    "abbr": "AAAI",
+    "authors": [
+      "Z Zhou",
+      "S Wei",
+      "X Zhang",
+      "W Dou",
+      "M Qu",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Testing Autonomous Driving Systems--What Really Matters and What Doesn't",
+    "year": 2025,
+    "venue": "arXiv preprint arXiv:2507.13661 , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "C Li",
+      "J Sifakis",
+      "R Yan",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Testing Autonomous Driving Systems with Irregular Junctions Extracted from OpenStreetMap",
+    "year": 2025,
+    "venue": "2025 25th International Conference on Software Quality, Reliability and … , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "T Sun",
+      "C Li",
+      "R Yan",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Simulation-Based Testing of Autonomous Robotic Systems for Surgical Applications",
+    "year": 2025,
+    "venue": "Actuators 14 (9), 439 , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "J Lin",
+      "T Sun",
+      "R Song",
+      "D Zhu",
+      "L Liu",
+      "J Leng",
+      "K Huang",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Seed-Adapted Cross-State Protocol Fuzzing",
+    "year": 2025,
+    "venue": "2025 32nd Asia-Pacific Software Engineering Conference (APSEC), 302-313 , 2025",
+    "abbr": "APSEC",
+    "authors": [
+      "D Li",
+      "S Zhu",
+      "Y Cai",
+      "L Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Reduce Dependence for Sound Concurrency Bug Prediction",
+    "year": 2025,
+    "venue": "2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE … , 2025",
+    "abbr": "ICSE",
+    "authors": [
+      "S Zhu",
+      "Y Guo",
+      "Y Cai",
+      "B Liang",
+      "L Zhang",
+      "R Chen",
+      "T Yu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Learn to Think: Bootstrapping LLM Reasoning Capability Through Graph Representation Learning",
+    "year": 2025,
+    "venue": "arXiv preprint arXiv:2505.06321 , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "H Gao",
+      "C Zhang",
+      "T Wang",
+      "J Zhao",
+      "F Wu",
+      "C Zheng",
+      "H Liu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Learn to Think: Bootstrapping LLM Reasoning Capability Through Graph Learning",
+    "year": 2025,
+    "venue": "arXiv e-prints, arXiv: 2505.06321 , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "H Gao",
+      "C Zhang",
+      "T Wang",
+      "J Zhao",
+      "F Wu",
+      "C Zheng",
+      "H Liu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Learn to Think: Bootstrapping LLM Logic Through Graph Representation Learning",
+    "year": 2025,
+    "venue": "Proceedings of the Thirty-Fourth International Joint Conference on … , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "H Gao",
+      "C Zhang",
+      "T Wang",
+      "J Zhao",
+      "F Wu",
+      "C Zheng",
+      "H Liu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "LNAHGN: LLM-Guided Neighbor Aggregation for Heterogeneous Graph Neural Network",
+    "year": 2025,
+    "venue": "International Conference on Neural Information Processing, 18-32 , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "C Zhang",
+      "F Wu",
+      "H Gao"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification",
+    "year": 2025,
+    "venue": "arXiv preprint arXiv:2505.08265 , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "H Gao",
+      "W Huang",
+      "F Wu",
+      "J Zhao",
+      "C Zheng",
+      "H Liu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Intrathread method orders based adaptive testing of concurrent objects",
+    "year": 2025,
+    "venue": "Science of Computer Programming, 103362 , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "Y Dai",
+      "L Xie",
+      "P Wu",
+      "S Cui",
+      "L Ma"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Def-VAE: Identifying Adversarial Inputs with Robust Latent Representations",
+    "year": 2025,
+    "venue": "Proceedings of the 16th International Conference on Internetware, 293-304 , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "C Li",
+      "C Wu",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Checking Linearizability of Multi-core Task Management and Scheduling System",
+    "year": 2025,
+    "venue": "International Conference on Engineering of Complex Computer Systems, 326-337 , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "Q Jia",
+      "L Lv",
+      "Y Yang",
+      "B Zhan",
+      "P Wu",
+      "J Hao",
+      "H Ye",
+      "C Wang",
+      "Y Lv"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "CCTest: Critical Configuration Testing for Autonomous Driving Systems",
+    "year": 2025,
+    "venue": "Proceedings of the 33rd ACM International Conference on the Foundations of … , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "C Li",
+      "J Sifakis",
+      "R Yan",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Bootstrapping heterogeneous graph representation learning via large language models: A generalized approach",
+    "year": 2025,
+    "venue": "Proceedings of the aaai conference on artificial intelligence 39 (16), 16717 … , 2025",
+    "abbr": "AAAI",
+    "authors": [
+      "H Gao",
+      "C Zhang",
+      "F Wu",
+      "C Zheng",
+      "J Zhao",
+      "H Liu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Bootstrapping Heterophily Graph Representation Learning via a Large Language Model-Based Approach",
+    "year": 2025,
+    "venue": "2025 IEEE 37th International Conference on Tools with Artificial … , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "W Huang",
+      "F Wu",
+      "H Gao",
+      "J Zhao"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Boosting Generalizable Fairness With Mahalanobis Distances Guided Boltzmann Exploratory Testing",
+    "year": 2025,
+    "venue": "IEEE Transactions on Software Engineering , 2025",
+    "abbr": "TSE",
+    "authors": [
+      "K Dong",
+      "P Wu",
+      "Y Chen"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A comprehensive evaluation of four end-to-end ai autopilots using cctest and the carla leaderboard",
+    "year": 2025,
+    "venue": "arXiv preprint arXiv:2501.12090 , 2025",
+    "abbr": "N/A",
+    "authors": [
+      "C Li",
+      "J Sifakis",
+      "R Yan",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A Packing-Insensitive Detection Method for Android Malware Based on Image Representation",
+    "year": 2025,
+    "venue": "2025 32nd Asia-Pacific Software Engineering Conference (APSEC), 725-736 , 2025",
+    "abbr": "APSEC",
+    "authors": [
+      "S Ma",
+      "S Zhu",
+      "L Zhang",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "but Not Strongly Linearizable Concurrent Objects",
+    "year": 2024,
+    "venue": "Dependable Software Engineering. Theories, Tools, and Applications: 10th … , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "C Wang",
+      "P Wu",
+      "G Petri",
+      "Q Jia¹",
+      "Y He¹"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Unsupervised social event detection via hybrid graph contrastive learning and reinforced incremental clustering",
+    "year": 2024,
+    "venue": "Knowledge-Based Systems 284, 111225 , 2024",
+    "abbr": "KBS",
+    "authors": [
+      "Y Guo",
+      "Z Zang",
+      "H Gao",
+      "X Xu",
+      "R Wang",
+      "L Liu",
+      "J Li"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Universal construction for linearizable but not strongly linearizable concurrent objects",
+    "year": 2024,
+    "venue": "International Symposium on Dependable Software Engineering: Theories, Tools … , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "C Wang",
+      "P Wu",
+      "G Petri",
+      "Q Jia",
+      "Y He",
+      "Y Lv",
+      "Z Liu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "The Double-Edged Sword of Input Perturbations to Robust Accurate Fairness",
+    "year": 2024,
+    "venue": "arXiv e-prints, arXiv: 2404.01356 , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "X Li",
+      "P Wu",
+      "Y Chen",
+      "X Ma",
+      "Z Zhang",
+      "K Dong"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Strong Linearizability Checking and Determination for Concurrent Objects.",
+    "year": 2024,
+    "venue": "International Journal of Software & Informatics 14 (4) , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "C Wang",
+      "Q Jia",
+      "Y Lyu",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Slicing Assisted Program Verification: An Empirical Study",
+    "year": 2024,
+    "venue": "International Symposium on Theoretical Aspects of Software Engineering, 38-57 , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "W Chai",
+      "R Yan",
+      "W Zhang",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Rigorous Simulation-based Testing for Autonomous Driving Systems--Targeting the Achilles' Heel of Four Open Autopilots",
+    "year": 2024,
+    "venue": "arXiv preprint arXiv:2405.16914 , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "C Li",
+      "J Sifakis",
+      "R Yan",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Rethinking causal relationships learning in graph neural networks",
+    "year": 2024,
+    "venue": "Proceedings of the AAAI conference on artificial intelligence 38 (11), 12145 … , 2024",
+    "abbr": "AAAI",
+    "authors": [
+      "H Gao",
+      "C Yao",
+      "J Li",
+      "L Si",
+      "Y Jin",
+      "F Wu",
+      "C Zheng",
+      "H Liu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Reorder pointer flow in sound concurrency bug prediction",
+    "year": 2024,
+    "venue": "Proceedings of the 46th IEEE/ACM International Conference on Software … , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "Y Guo",
+      "S Zhu",
+      "Y Cai",
+      "L He",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Out-of-bounding-box triggers: A stealthy approach to cheat object detectors",
+    "year": 2024,
+    "venue": "European Conference on Computer Vision, 269-287 , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "T Lin",
+      "L Yu",
+      "G Jin",
+      "R Li",
+      "P Wu",
+      "L Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "OSmart: Whitebox Program Option Fuzzing",
+    "year": 2024,
+    "venue": "Proceedings of the 2024 on ACM SIGSAC Conference on Computer and … , 2024",
+    "abbr": "SIGSAC",
+    "authors": [
+      "K Wang",
+      "M Chen",
+      "L He",
+      "P Su",
+      "Y Cai",
+      "J Chen",
+      "B Zhang",
+      "C Feng",
+      "C Tang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Multi-level Critical Transformation Robustness Evaluation of Object Detection Models",
+    "year": 2024,
+    "venue": "International Conference on Neural Information Processing, 123-137 , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "Z Zhang",
+      "C Li",
+      "Z Liang",
+      "C Yao",
+      "J Zhang",
+      "R Yan",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Molecular graph representation learning via structural similarity information",
+    "year": 2024,
+    "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in … , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "C Yao",
+      "H Huang",
+      "H Gao",
+      "F Wu",
+      "H Chen",
+      "J Zhao"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Learning node representations under partial label learning",
+    "year": 2024,
+    "venue": "2024 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2024",
+    "abbr": "NN",
+    "authors": [
+      "J Yuan",
+      "H Gao",
+      "F Wu",
+      "J Zhao"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Introducing diminutive causal structure into graph representation learning",
+    "year": 2024,
+    "venue": "Knowledge-Based Systems 293, 111592 , 2024",
+    "abbr": "KBS",
+    "authors": [
+      "H Gao",
+      "P Qiao",
+      "Y Jin",
+      "F Wu",
+      "J Li",
+      "C Zheng"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Hierarchical topology isomorphism expertise embedded graph contrastive learning",
+    "year": 2024,
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (12), 13518 … , 2024",
+    "abbr": "AAAI",
+    "authors": [
+      "J Li",
+      "Y Jin",
+      "H Gao",
+      "W Qiang",
+      "C Zheng",
+      "F Sun"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Graph Partial Label Learning with Potential Cause Discovering",
+    "year": 2024,
+    "venue": "arXiv preprint arXiv:2403.11449 , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "H Gao",
+      "J Yuan",
+      "J Li",
+      "P Qiao",
+      "F Wu",
+      "C Zheng",
+      "H Liu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Extending test-time augmentation with metamorphic relations for combinatorial problems",
+    "year": 2024,
+    "venue": "Forty-first International Conference on Machine Learning , 2024",
+    "abbr": "ICML",
+    "authors": [
+      "S Wei",
+      "X Zhang",
+      "Z Zhou",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Automatic construction of HD maps for simulation-based testing of autonomous driving systems",
+    "year": 2024,
+    "venue": "International Symposium on Theoretical Aspects of Software Engineering, 410-427 , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "S Wang",
+      "C Li",
+      "T Sun",
+      "F Jia",
+      "R Yan",
+      "J Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Adaptive Testing of Concurrent Objects",
+    "year": 2024,
+    "venue": "Theoretical Aspects of Software Engineering: 18th International Symposium … , 2024",
+    "abbr": "N/A",
+    "authors": [
+      "Y Dai¹",
+      "P Wu",
+      "S Cui¹",
+      "L Ma"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "计算机科学国家重点实验室技术报告",
+    "year": 2023,
+    "venue": "",
+    "abbr": "N/A",
+    "authors": [
+      "C Wang",
+      "Q Jia",
+      "Y Lv",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "VeriLin: A linearizability checker for large-scale concurrent objects",
+    "year": 2023,
+    "venue": "International Symposium on Theoretical Aspects of Software Engineering, 202-220 , 2023",
+    "abbr": "N/A",
+    "authors": [
+      "Q Jia",
+      "Y Lv",
+      "P Wu",
+      "B Zhan",
+      "J Hao",
+      "H Ye",
+      "C Wang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Tolerate control-flow changes for sound data race prediction",
+    "year": 2023,
+    "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE … , 2023",
+    "abbr": "ICSE",
+    "authors": [
+      "S Zhu",
+      "Y Guo",
+      "L Zhang",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Sound Predictive Fuzzing for Multi-threaded Programs",
+    "year": 2023,
+    "venue": "2023 IEEE 47th Annual Computers, Software, and Applications Conference … , 2023",
+    "abbr": "N/A",
+    "authors": [
+      "Y Guo",
+      "Z Liang",
+      "S Zhu",
+      "J Wang",
+      "Z Yang",
+      "W Shen",
+      "J Zhang",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Simulation-based validation for autonomous driving systems",
+    "year": 2023,
+    "venue": "Proceedings of the 32nd ACM SIGSOFT International Symposium on Software … , 2023",
+    "abbr": "SIGSOFT",
+    "authors": [
+      "C Li",
+      "J Sifakis",
+      "Q Wang",
+      "R Yan",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Runtime Monitoring DNN-Based Perception: (via the Lens of Formal Methods)",
+    "year": 2023,
+    "venue": "International Conference on Runtime Verification, 428-446 , 2023",
+    "abbr": "N/A",
+    "authors": [
+      "CH Cheng",
+      "M Luttenberger",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Runtime Monitoring DNN-Based",
+    "year": 2023,
+    "venue": "Runtime Verification: 23rd International Conference, RV 2023, Thessaloniki … , 2023",
+    "abbr": "RV",
+    "authors": [
+      "CH Cheng",
+      "M Luttenberger¹",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "RobustFair: Adversarial Evaluation through Fairness Confusion Directed Gradient Search",
+    "year": 2023,
+    "venue": "arXiv preprint arXiv:2305.10906 , 2023",
+    "abbr": "N/A",
+    "authors": [
+      "X Li",
+      "P Wu",
+      "K Dong",
+      "Z Zhang",
+      "Y Chen"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Robust causal graph representation learning against confounding effects",
+    "year": 2023,
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (6), 7624-7632 , 2023",
+    "abbr": "AAAI",
+    "authors": [
+      "H Gao",
+      "J Li",
+      "W Qiang",
+      "L Si",
+      "B Xu",
+      "C Zheng",
+      "F Sun"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "One simple api can cause hundreds of bugs an analysis of refcounting bugs in all modern linux kernels",
+    "year": 2023,
+    "venue": "Proceedings of the 29th Symposium on Operating Systems Principles, 52-65 , 2023",
+    "abbr": "N/A",
+    "authors": [
+      "L He",
+      "P Su",
+      "C Zhang",
+      "Y Cai",
+      "J Ma"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Manifold-guided sampling in diffusion models for unbiased image generation",
+    "year": 2023,
+    "venue": "arXiv preprint arXiv:2307.08199 9, 2 , 2023",
+    "abbr": "N/A",
+    "authors": [
+      "X Su",
+      "W Qiang",
+      "Z Song",
+      "H Gao",
+      "F Wu",
+      "C Zheng"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Introducing semantic-based receptive field into semantic segmentation via graph neural networks",
+    "year": 2023,
+    "venue": "International Conference on Neural Information Processing, 434-451 , 2023",
+    "abbr": "N/A",
+    "authors": [
+      "D Jia",
+      "H Gao",
+      "X Su",
+      "F Wu",
+      "J Zhao"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Introducing Expertise Logic into Graph Representation Learning from A Causal Perspective",
+    "year": 2023,
+    "venue": "arXiv preprint arXiv:2301.08496 , 2023",
+    "abbr": "N/A",
+    "authors": [
+      "H Gao",
+      "J Li",
+      "W Qiang",
+      "L Si",
+      "X Su",
+      "F Wu",
+      "C Zheng",
+      "F Sun"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Information theory-guided heuristic progressive multi-view coding",
+    "year": 2023,
+    "venue": "Neural Networks 167, 415-432 , 2023",
+    "abbr": "NN",
+    "authors": [
+      "J Li",
+      "H Gao",
+      "W Qiang",
+      "C Zheng"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Discovering parallelisms in python programs",
+    "year": 2023,
+    "venue": "Proceedings of the 31st ACM Joint European Software Engineering Conference … , 2023",
+    "abbr": "N/A",
+    "authors": [
+      "S Wei",
+      "G Song",
+      "S Zhu",
+      "R Ruan",
+      "S Zhu",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Building critical testing scenarios for autonomous driving from real accidents",
+    "year": 2023,
+    "venue": "Proceedings of the 32nd ACM SIGSOFT International Symposium on Software … , 2023",
+    "abbr": "SIGSOFT",
+    "authors": [
+      "X Zhang",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "An interleaving guided metamorphic testing approach for concurrent programs",
+    "year": 2023,
+    "venue": "ACM Transactions on Software Engineering and Methodology 33 (1), 1-21 , 2023",
+    "abbr": "TSE",
+    "authors": [
+      "CA Sun",
+      "H Dai",
+      "N Geng",
+      "H Liu",
+      "TY Chen",
+      "P Wu",
+      "Y Cai",
+      "J Wang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Accurate fairness: Improving individual fairness without trading accuracy",
+    "year": 2023,
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (12), 14312 … , 2023",
+    "abbr": "AAAI",
+    "authors": [
+      "X Li",
+      "P Wu",
+      "J Su"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A unified gan framework regarding manifold alignment for remote sensing images generation",
+    "year": 2023,
+    "venue": "arXiv preprint , 2023",
+    "abbr": "N/A",
+    "authors": [
+      "X Su",
+      "W Qiang",
+      "Z Song",
+      "H Gao",
+      "F Wu",
+      "C Zheng"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "{FreeWill}: Automatically Diagnosing Use-after-free Bugs via Reference Miscounting Detection on Binaries",
+    "year": 2022,
+    "venue": "31st USENIX Security Symposium (USENIX Security 22), 2497-2512 , 2022",
+    "abbr": "USENIX Security",
+    "authors": [
+      "L He",
+      "H Hu",
+      "P Su",
+      "Y Cai",
+      "Z Liang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Weight-aware graph contrastive learning",
+    "year": 2022,
+    "venue": "International Conference on Artificial Neural Networks, 719-730 , 2022",
+    "abbr": "NN",
+    "authors": [
+      "H Gao",
+      "J Li",
+      "P Qiao",
+      "C Zheng"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Test case prioritization with neuron valuation based pattern",
+    "year": 2022,
+    "venue": "Science of Computer Programming 215, 102761 , 2022",
+    "abbr": "N/A",
+    "authors": [
+      "R Yan",
+      "Y Chen",
+      "H Gao",
+      "J Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Self-supervised Graph Learning with Segmented Graph Channels",
+    "year": 2022,
+    "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in … , 2022",
+    "abbr": "N/A",
+    "authors": [
+      "H Gao",
+      "J Li",
+      "C Zheng"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Layer-specific repair of neural network classifiers",
+    "year": 2022,
+    "venue": "International conference on artificial neural networks, 550-561 , 2022",
+    "abbr": "NN",
+    "authors": [
+      "S Sun",
+      "J Yan",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Excepy: A python benchmark for bugs with python built-in types",
+    "year": 2022,
+    "venue": "2022 IEEE international conference on software analysis, evolution and … , 2022",
+    "abbr": "N/A",
+    "authors": [
+      "X Zhang",
+      "R Yan",
+      "J Yan",
+      "B Cui",
+      "J Yan",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Concspectre: Be aware of forthcoming malware hidden in concurrent programs",
+    "year": 2022,
+    "venue": "IEEE Transactions on Reliability 71 (2), 1174-1188 , 2022",
+    "abbr": "TR",
+    "authors": [
+      "Y Liu",
+      "Z Xu",
+      "M Fan",
+      "Y Hao",
+      "K Chen",
+      "H Chen",
+      "Y Cai",
+      "Z Yang",
+      "T Liu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "ComOpT: Combination and optimization for testing autonomous driving systems",
+    "year": 2022,
+    "venue": "2022 International Conference on Robotics and Automation (ICRA), 7738-7744 , 2022",
+    "abbr": "ICRA",
+    "authors": [
+      "C Li",
+      "CH Cheng",
+      "T Sun",
+      "Y Chen",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Bootstrapping informative graph augmentation via a meta learning approach",
+    "year": 2022,
+    "venue": "arXiv preprint arXiv:2201.03812 , 2022",
+    "abbr": "N/A",
+    "authors": [
+      "H Gao",
+      "J Li",
+      "W Qiang",
+      "L Si",
+      "F Sun",
+      "C Zheng"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Adversarial input detection based on critical transformation robustness",
+    "year": 2022,
+    "venue": "2022 IEEE 33rd International Symposium on Software Reliability Engineering … , 2022",
+    "abbr": "N/A",
+    "authors": [
+      "J Su",
+      "Z Zhang",
+      "P Wu",
+      "X Li",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "2022 Index IEEE Transactions on Reliability Vol. 71",
+    "year": 2022,
+    "venue": "IEEE Transactions on Reliability 71 (4) , 2022",
+    "abbr": "TR",
+    "authors": [
+      "S Abdelwahed",
+      "R Abreu",
+      "R Ahmadi",
+      "J Ai",
+      "M Alazab",
+      "L Alcantara",
+      "..."
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Xdebloat: Towards automated feature-oriented app debloating",
+    "year": 2021,
+    "venue": "IEEE Transactions on Software Engineering 48 (11), 4501-4520 , 2021",
+    "abbr": "TSE",
+    "authors": [
+      "Y Tang",
+      "H Zhou",
+      "X Luo",
+      "T Chen",
+      "H Wang",
+      "Z Xu",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Testing autonomous systems with believed equivalence refinement",
+    "year": 2021,
+    "venue": "2021 IEEE International Conference On Artificial Intelligence Testing … , 2021",
+    "abbr": "N/A",
+    "authors": [
+      "CH Cheng",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Stability evaluation for text localization systems via metamorphic testing",
+    "year": 2021,
+    "venue": "Journal of Systems and Software 181, 111040 , 2021",
+    "abbr": "JSS",
+    "authors": [
+      "R Yan",
+      "S Wang",
+      "Y Yan",
+      "H Gao",
+      "J Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Sound and efficient concurrency bug prediction",
+    "year": 2021,
+    "venue": "Proceedings of the 29th ACM Joint Meeting on European Software Engineering … , 2021",
+    "abbr": "N/A",
+    "authors": [
+      "Y Cai",
+      "H Yun",
+      "J Wang",
+      "L Qiao",
+      "J Palsberg"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "RAProducer: efficiently diagnose and reproduce data race bugs for binaries via trace analysis",
+    "year": 2021,
+    "venue": "Proceedings of the 30th ACM SIGSOFT International Symposium on Software … , 2021",
+    "abbr": "SIGSOFT",
+    "authors": [
+      "M Yuan",
+      "Y Lee",
+      "C Zhang",
+      "Y Li",
+      "Y Cai",
+      "B Zhao"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Out-of-distribution detection through relative activation-deactivation abstractions",
+    "year": 2021,
+    "venue": "2021 IEEE 32nd International Symposium on Software Reliability Engineering … , 2021",
+    "abbr": "N/A",
+    "authors": [
+      "Z Zhang",
+      "P Wu",
+      "Y Chen",
+      "J Su"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Monitoring object detection abnormalities via data-label and post-algorithm abstractions",
+    "year": 2021,
+    "venue": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems … , 2021",
+    "abbr": "RSJ",
+    "authors": [
+      "Y Chen",
+      "CH Cheng",
+      "J Yan",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Empirical evaluation of smart contract testing: What is the best choice?",
+    "year": 2021,
+    "venue": "Proceedings of the 30th ACM SIGSOFT international symposium on software … , 2021",
+    "abbr": "SIGSOFT",
+    "authors": [
+      "M Ren",
+      "Z Yin",
+      "F Ma",
+      "Z Xu",
+      "Y Jiang",
+      "C Sun",
+      "H Li",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Efficient testing of GUI applications by event sequence reduction",
+    "year": 2021,
+    "venue": "Science of Computer Programming 201, 102522 , 2021",
+    "abbr": "N/A",
+    "authors": [
+      "J Yan",
+      "H Zhou",
+      "X Deng",
+      "P Wang",
+      "R Yan",
+      "J Yan",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Detecting concurrency vulnerabilities based on partial orders of memory and thread events",
+    "year": 2021,
+    "venue": "Proceedings of the 29th ACM Joint Meeting on European Software Engineering … , 2021",
+    "abbr": "N/A",
+    "authors": [
+      "K Yu",
+      "C Wang",
+      "Y Cai",
+      "X Luo",
+      "Z Yang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Continuous safety verification of neural networks",
+    "year": 2021,
+    "venue": "2021 Design, Automation & Test in Europe Conference & Exhibition (DATE … , 2021",
+    "abbr": "DATE",
+    "authors": [
+      "CH Cheng",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Bounded Linearizability on TSO Memory Model is Decidable",
+    "year": 2021,
+    "venue": "",
+    "abbr": "N/A",
+    "authors": [
+      "C Wang",
+      "Y Lv",
+      "P Wu",
+      "Q Jia"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "2020 Index IEEE Transactions on Software Engineering Vol. 46",
+    "year": 2021,
+    "venue": "IEEE Transactions on Software Engineering 47 (1) , 2021",
+    "abbr": "TSE",
+    "authors": [
+      "S Abdelwahed",
+      "KV Abhishekh",
+      "B Adams",
+      "K Ali",
+      "V Alizadeh",
+      "M Aniche",
+      "..."
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Special section on testing and repair for software engineering technologies and applications",
+    "year": 2020,
+    "venue": "Software Quality Journal 28 (2), 821-822 , 2020",
+    "abbr": "SQJ",
+    "authors": [
+      "I Bayley",
+      "Y Cai",
+      "P Machado"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Resource race attacks on android",
+    "year": 2020,
+    "venue": "2020 ieee 27th international conference on software analysis, evolution and … , 2020",
+    "abbr": "N/A",
+    "authors": [
+      "Y Cai",
+      "Y Tang",
+      "H Li",
+      "L Yu",
+      "H Zhou",
+      "X Luo",
+      "L He",
+      "P Su"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Neuron activation frequency based test case prioritization",
+    "year": 2020,
+    "venue": "2020 International Symposium on Theoretical Aspects of Software Engineering … , 2020",
+    "abbr": "N/A",
+    "authors": [
+      "K Zhang",
+      "Y Zhang",
+      "L Zhang",
+      "H Gao",
+      "R Yan",
+      "J Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Low-overhead deadlock prediction",
+    "year": 2020,
+    "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software … , 2020",
+    "abbr": "N/A",
+    "authors": [
+      "Y Cai",
+      "R Meng",
+      "J Palsberg"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Feature Location Benchmark for Decomposing and Reusing Android Apps",
+    "year": 2020,
+    "venue": "arXiv preprint arXiv:2005.04008 , 2020",
+    "abbr": "N/A",
+    "authors": [
+      "Y Tang",
+      "H Zhou",
+      "Z Xu",
+      "X Luo",
+      "Y Cai",
+      "T Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Fairness testing of machine learning models using deep reinforcement learning",
+    "year": 2020,
+    "venue": "2020 IEEE 19th International Conference on Trust, Security and Privacy in … , 2020",
+    "abbr": "N/A",
+    "authors": [
+      "W Xie",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Corrections to “Detecting Bugs by Discovering Expectations and Their Violations”",
+    "year": 2020,
+    "venue": "IEEE Transactions on Software Engineering 46 (1), 113-113 , 2020",
+    "abbr": "TSE",
+    "authors": [
+      "P Bian",
+      "B Liang",
+      "Y Zhang",
+      "C Yang",
+      "W Shi",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Contention-aware mapping and scheduling optimization for NoC-based MPSoCs",
+    "year": 2020,
+    "venue": "Proceedings of the International Conference on Automated Planning and … , 2020",
+    "abbr": "N/A",
+    "authors": [
+      "R Yan",
+      "Y Zhou",
+      "A Cai",
+      "C Li",
+      "Y Yan",
+      "M Yin"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Contention-Aware Mapping and Scheduling Optimization for NoC-Based MPSoCs (Student Abstract)",
+    "year": 2020,
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (10), 13995 … , 2020",
+    "abbr": "AAAI",
+    "authors": [
+      "Y Zhou",
+      "R Yan",
+      "A Cai",
+      "Y Yan",
+      "M Yin"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "An iterative metamorphic testing technique for web services and case studies",
+    "year": 2020,
+    "venue": "International Journal of Web and Grid Services 16 (4), 364-392 , 2020",
+    "abbr": "N/A",
+    "authors": [
+      "C Sun",
+      "A Fu",
+      "Y Liu",
+      "Q Wen",
+      "Z Wang",
+      "P Wu",
+      "TY Chen"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A study on testing autonomous driving systems",
+    "year": 2020,
+    "venue": "2020 IEEE 20th International Conference on Software Quality, Reliability and … , 2020",
+    "abbr": "N/A",
+    "authors": [
+      "X Zhang",
+      "Y Cai",
+      "Z Yang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "sCompile: Critical path identification and analysis for smart contracts",
+    "year": 2019,
+    "venue": "International Conference on Formal Engineering Methods, 286-304 , 2019",
+    "abbr": "N/A",
+    "authors": [
+      "J Chang",
+      "B Gao",
+      "H Xiao",
+      "J Sun",
+      "Y Cai",
+      "Z Yang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Smt-based multi-objective optimization for scheduling of mpsoc applications",
+    "year": 2019,
+    "venue": "2019 International Symposium on Theoretical Aspects of Software Engineering … , 2019",
+    "abbr": "N/A",
+    "authors": [
+      "R Yan",
+      "A Cai",
+      "H Gao",
+      "F Ma",
+      "J Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Recent progress in program analysis",
+    "year": 2019,
+    "venue": "Journal of Software 30 (1), 80-109 , 2019",
+    "abbr": "N/A",
+    "authors": [
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Fine-grained communication-aware task scheduling approach for acyclic and cyclic applications on MPSoCs",
+    "year": 2019,
+    "venue": "IEEE Access 7, 54372-54389 , 2019",
+    "abbr": "N/A",
+    "authors": [
+      "K Huang",
+      "X Jiang",
+      "H Jiang",
+      "X Zhang",
+      "M Yu",
+      "R Yan",
+      "X Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Detecting concurrency memory corruption vulnerabilities",
+    "year": 2019,
+    "venue": "Proceedings of the 2019 27th ACM Joint Meeting on European Software … , 2019",
+    "abbr": "N/A",
+    "authors": [
+      "Y Cai",
+      "B Zhu",
+      "R Meng",
+      "H Yun",
+      "L He",
+      "P Su",
+      "B Liang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Convul: an effective tool for detecting concurrency vulnerabilities",
+    "year": 2019,
+    "venue": "2019 34th IEEE/ACM International Conference on Automated Software … , 2019",
+    "abbr": "N/A",
+    "authors": [
+      "R Meng",
+      "B Zhu",
+      "H Yun",
+      "H Li",
+      "Y Cai",
+      "Z Yang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Architecting dependable learning-enabled autonomous systems: A survey",
+    "year": 2019,
+    "venue": "arXiv preprint arXiv:1902.10590 , 2019",
+    "abbr": "N/A",
+    "authors": [
+      "CH Cheng",
+      "D Gulati",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Resource-aware design for reliable autonomous applications with multiple periods",
+    "year": 2018,
+    "venue": "International Symposium on Formal Methods, 294-311 , 2018",
+    "abbr": "N/A",
+    "authors": [
+      "R Yan",
+      "D Zhu",
+      "F Zhang",
+      "Y Lv",
+      "J Yang",
+      "K Huang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Poster: A Weight-Based Approach to Combinatorial Test Generation",
+    "year": 2018,
+    "venue": "2018 IEEE/ACM 40th International Conference on Software Engineering … , 2018",
+    "abbr": "ICSE",
+    "authors": [
+      "J Zhao",
+      "G Ning",
+      "H Lu",
+      "Y Wang",
+      "C Yan",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Nar-miner: discovering negative association rules from code for bug detection",
+    "year": 2018,
+    "venue": "Proceedings of the 2018 26th ACM joint meeting on European software … , 2018",
+    "abbr": "N/A",
+    "authors": [
+      "P Bian",
+      "B Liang",
+      "W Shi",
+      "J Huang",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Interleaving-tree based fine-grained linearizability fault localization",
+    "year": 2018,
+    "venue": "International Symposium on Dependable Software Engineering: Theories, Tools … , 2018",
+    "abbr": "N/A",
+    "authors": [
+      "Y Chen",
+      "Z Zhang",
+      "P Wu",
+      "Y Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Expected energy optimization for real-time multiprocessor SoCs running periodic tasks with uncertain execution time",
+    "year": 2018,
+    "venue": "IEEE Transactions on Sustainable Computing 6 (3), 398-411 , 2018",
+    "abbr": "N/A",
+    "authors": [
+      "K Huang",
+      "K Wang",
+      "D Zheng",
+      "X Jiang",
+      "X Zhang",
+      "R Yan",
+      "X Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Energy-efficient scheduling of periodic applications on safety-critical time-triggered multiprocessor systems",
+    "year": 2018,
+    "venue": "Electronics 7 (6), 98 , 2018",
+    "abbr": "N/A",
+    "authors": [
+      "X Jiang",
+      "K Huang",
+      "X Zhang",
+      "R Yan",
+      "K Wang",
+      "D Xiong",
+      "X Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Energy-efficient fault-tolerant mapping and scheduling on heterogeneous multiprocessor real-time systems",
+    "year": 2018,
+    "venue": "IEEE Access 6, 57614-57630 , 2018",
+    "abbr": "N/A",
+    "authors": [
+      "K Huang",
+      "X Jiang",
+      "X Zhang",
+      "R Yan",
+      "K Wang",
+      "D Xiong",
+      "X Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Diversity driven adaptive test generation for concurrent data structures",
+    "year": 2018,
+    "venue": "Information and software technology 103, 162-173 , 2018",
+    "abbr": "IST",
+    "authors": [
+      "L Ma",
+      "P Wu",
+      "TY Chen"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Detecting bugs by discovering expectations and their violations",
+    "year": 2018,
+    "venue": "IEEE Transactions on Software Engineering 45 (10), 984-1001 , 2018",
+    "abbr": "TSE",
+    "authors": [
+      "P Bian",
+      "B Liang",
+      "Y Zhang",
+      "C Yang",
+      "W Shi",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Design verification and validation for reliable safety-critical autonomous control systems",
+    "year": 2018,
+    "venue": "2018 23rd International Conference on Engineering of Complex Computer … , 2018",
+    "abbr": "N/A",
+    "authors": [
+      "R Yan",
+      "J Yang",
+      "D Zhu",
+      "K Huang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Decidability of linearizabilities for relaxed data structures",
+    "year": 2018,
+    "venue": "Science China Information Sciences 61 (1), 012103 , 2018",
+    "abbr": "N/A",
+    "authors": [
+      "C Wang",
+      "Y Lv",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A weight-based approach to combinatorial test generation",
+    "year": 2018,
+    "venue": "Proceedings of the 40th International Conference on Software Engineering … , 2018",
+    "abbr": "ICSE",
+    "authors": [
+      "J Zhao",
+      "GR Ning",
+      "HL Lu",
+      "YB Wang",
+      "Y Cai",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Undead: Detecting and preventing deadlocks in production software",
+    "year": 2017,
+    "venue": "2017 32nd IEEE/ACM International Conference on Automated Software … , 2017",
+    "abbr": "N/A",
+    "authors": [
+      "J Zhou",
+      "S Silvestro",
+      "H Liu",
+      "Y Cai",
+      "T Liu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Synthesizing coalitions for multi-agent games",
+    "year": 2017,
+    "venue": "International Conference on Integrated Formal Methods, 243-259 , 2017",
+    "abbr": "N/A",
+    "authors": [
+      "W Ji",
+      "F Wang",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Localization of linearizability faults on the coarse-grained level",
+    "year": 2017,
+    "venue": "International Journal of Software Engineering and Knowledge Engineering 27 … , 2017",
+    "abbr": "N/A",
+    "authors": [
+      "Z Zhang",
+      "P Wu",
+      "Y Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Formal collision avoidance analysis for rigorous building of autonomous marine vehicles",
+    "year": 2017,
+    "venue": "National Conference on Embedded System Technology, 118-127 , 2017",
+    "abbr": "N/A",
+    "authors": [
+      "R Yan",
+      "X Yao",
+      "J Yang",
+      "K Huang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Decomposable relaxation for concurrent data structures",
+    "year": 2017,
+    "venue": "International Conference on Current Trends in Theory and Practice of … , 2017",
+    "abbr": "N/A",
+    "authors": [
+      "C Wang",
+      "Y Lv",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Comprehensive Static Analysis for Configurable Software via Combinatorial Instantiation",
+    "year": 2017,
+    "venue": "2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC … , 2017",
+    "abbr": "COMPSAC",
+    "authors": [
+      "D Yan",
+      "L Pan",
+      "R Yan",
+      "J Yan",
+      "J Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Automatically assessing crashes from heap overflows",
+    "year": 2017,
+    "venue": "2017 32nd IEEE/ACM International Conference on Automated Software … , 2017",
+    "abbr": "N/A",
+    "authors": [
+      "L He",
+      "Y Cai",
+      "H Hu",
+      "P Su",
+      "Z Liang",
+      "Y Yang",
+      "H Huang",
+      "J Yan",
+      "X Jia",
+      "D Feng"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Atexrace: Across thread and execution sampling for in-house race detection",
+    "year": 2017,
+    "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software … , 2017",
+    "abbr": "N/A",
+    "authors": [
+      "Y Guo",
+      "Y Cai",
+      "Z Yang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Alternative formats",
+    "year": 2017,
+    "venue": "Cancer Res Treat 49 (2), 358-373 , 2017",
+    "abbr": "N/A",
+    "authors": [
+      "H Huang",
+      "F Zhang",
+      "L Jiang",
+      "G Hu",
+      "W Sun",
+      "C Zhang",
+      "X Ding"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Adaptively generating high quality fixes for atomicity violations",
+    "year": 2017,
+    "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software … , 2017",
+    "abbr": "N/A",
+    "authors": [
+      "Y Cai",
+      "L Cao",
+      "J Zhao"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A Hybrid Multi-objective Evolutionary Algorithm for Energy-Aware Allocation and Scheduling Optimization of MPSoCs",
+    "year": 2017,
+    "venue": "2017 IEEE 29th International Conference on Tools with Artificial … , 2017",
+    "abbr": "N/A",
+    "authors": [
+      "R Yan",
+      "Y Zhou",
+      "Y Yan",
+      "M Yin",
+      "M Yu",
+      "F Ma",
+      "K Huang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "2016 Index IEEE Transactions on Software Engineering Vol. 42",
+    "year": 2017,
+    "venue": "IEEE Transactions on Software Engineering 43 (1), 1 , 2017",
+    "abbr": "TSE",
+    "authors": [
+      "BA Abdullah",
+      "P Abrahamsson",
+      "R Abreu",
+      "A Agah",
+      "E Ahlin",
+      "PA Akiki",
+      "C Apa",
+      "..."
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Том. 13-18-November-2016. FSE 2016-Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering.-Сер. FSE 2016-Proceedings of the …",
+    "year": 2016,
+    "venue": "",
+    "abbr": "N/A",
+    "authors": [
+      "S Apel",
+      "A Stahlbauer",
+      "D Beyer",
+      "V Mordan",
+      "V Mutilin",
+      "Y Kang",
+      "Y Zhou",
+      "H Xu",
+      "..."
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Radius aware probabilistic testing of deadlocks with guarantees",
+    "year": 2016,
+    "venue": "Proceedings of the 31st IEEE/ACM International Conference on Automated … , 2016",
+    "abbr": "N/A",
+    "authors": [
+      "Y Cai",
+      "Z Yang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Modelling and Analysis of Network Security-an Algebraic Approach",
+    "year": 2016,
+    "venue": "2016 IEEE Trustcom/BigDataSE/ISPA, 308-315 , 2016",
+    "abbr": "ISPA",
+    "authors": [
+      "Q Zhang",
+      "Y Jiang",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Fixing deadlocks via lock pre-acquisitions",
+    "year": 2016,
+    "venue": "Proceedings of the 38th international conference on software engineering … , 2016",
+    "abbr": "ICSE",
+    "authors": [
+      "Y Cai",
+      "L Cao"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Dynamic testing for deadlocks via constraints",
+    "year": 2016,
+    "venue": "IEEE Transactions on Software Engineering 42 (9), 825-842 , 2016",
+    "abbr": "TSE",
+    "authors": [
+      "Y Cai",
+      "Q Lu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Component-based verification using incremental design and invariants",
+    "year": 2016,
+    "venue": "Software & Systems Modeling 15 (2), 427-451 , 2016",
+    "abbr": "N/A",
+    "authors": [
+      "S Bensalem",
+      "M Bozga",
+      "A Legay",
+      "TH Nguyen",
+      "J Sifakis",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Bounded TSO-to-SC linearizability is decidable",
+    "year": 2016,
+    "venue": "International Conference on Current Trends in Theory and Practice of … , 2016",
+    "abbr": "N/A",
+    "authors": [
+      "C Wang",
+      "Y Lv",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "AntMiner: mining more bugs by reducing noise interference",
+    "year": 2016,
+    "venue": "Proceedings of the 38th international conference on software engineering … , 2016",
+    "abbr": "ICSE",
+    "authors": [
+      "B Liang",
+      "P Bian",
+      "Y Zhang",
+      "W Shi",
+      "W You",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "AntMiner",
+    "year": 2016,
+    "venue": "Proceedings of the 38th International Conference on Software Engineering , 2016",
+    "abbr": "ICSE",
+    "authors": [
+      "B Liang",
+      "P Bian",
+      "Y Zhang",
+      "W Shi",
+      "W You",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "An experiment on decision diagrams for model checking probabilistic timed automata",
+    "year": 2016,
+    "venue": "2016 21st International Conference on Engineering of Complex Computer … , 2016",
+    "abbr": "N/A",
+    "authors": [
+      "W Ji",
+      "F Wang",
+      "P Wu",
+      "Y Lv"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A deployable sampling strategy for data race detection",
+    "year": 2016,
+    "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on … , 2016",
+    "abbr": "SIGSOFT",
+    "authors": [
+      "Y Cai",
+      "J Zhang",
+      "L Cao",
+      "J Liu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "5W+ 1H pattern: A perspective of systematic mapping studies and a case study on cloud software testing",
+    "year": 2016,
+    "venue": "Journal of Systems and Software 116, 206-219 , 2016",
+    "abbr": "JSS",
+    "authors": [
+      "C Jia",
+      "Y Cai",
+      "YT Yu",
+      "TH Tse"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "TSO-to-TSO Linearizability Is Undecidable",
+    "year": 2015,
+    "venue": "ATVA 2015, 309-325 , 2015",
+    "abbr": "ATVA",
+    "authors": [
+      "C Wang",
+      "Y Lv",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Static optimal scheduling for synchronous data flow graphs with model checking",
+    "year": 2015,
+    "venue": "International Symposium on Formal Methods, 551-569 , 2015",
+    "abbr": "N/A",
+    "authors": [
+      "XY Zhu",
+      "R Yan",
+      "YL Gu",
+      "J Zhang",
+      "W Zhang",
+      "G Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Software Partitioning Method Trading off Load Balance and Communication Optimization.",
+    "year": 2015,
+    "venue": "ETRI Journal 37 (2) , 2015",
+    "abbr": "ETRI",
+    "authors": [
+      "K Huang",
+      "S Xiu",
+      "M Yu",
+      "X Zhang",
+      "R Yan",
+      "X Yan",
+      "Z Liu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Quasi-linearizability is undecidable",
+    "year": 2015,
+    "venue": "Asian Symposium on Programming Languages and Systems, 369-386 , 2015",
+    "abbr": "N/A",
+    "authors": [
+      "C Wang",
+      "Y Lv",
+      "G Liu",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Input-driven active testing of multi-threaded programs",
+    "year": 2015,
+    "venue": "2015 Asia-Pacific Software Engineering Conference (APSEC), 246-253 , 2015",
+    "abbr": "APSEC",
+    "authors": [
+      "H Yue",
+      "P Wu",
+      "TY Chen",
+      "Y Lv"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Functional testbench qualification by mutation analysis",
+    "year": 2015,
+    "venue": "VLSI Design 2015 (1), 256474 , 2015",
+    "abbr": "VLSI",
+    "authors": [
+      "K Huang",
+      "P Zhu",
+      "R Yan",
+      "X Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Formal consistency checking over specifications in natural languages. In 2015 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+    "year": 2015,
+    "venue": "IEEE , 2015",
+    "abbr": "N/A",
+    "authors": [
+      "R Yan",
+      "CH Cheng",
+      "Y Chai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Formal consistency checking over specifications in natural languages",
+    "year": 2015,
+    "venue": "2015 Design, Automation & Test in Europe Conference & Exhibition (DATE … , 2015",
+    "abbr": "DATE",
+    "authors": [
+      "R Yan",
+      "CH Cheng",
+      "Y Chai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Effective and precise dynamic detection of hidden races for java programs",
+    "year": 2015,
+    "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software … , 2015",
+    "abbr": "N/A",
+    "authors": [
+      "Y Cai",
+      "L Cao"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Communication optimizations for multithreaded code generation from Simulink models",
+    "year": 2015,
+    "venue": "ACM Transactions on Embedded Computing Systems (TECS) 14 (3), 1-26 , 2015",
+    "abbr": "TECS",
+    "authors": [
+      "K Huang",
+      "M Yu",
+      "R Yan",
+      "X Zhang",
+      "X Yan",
+      "L Brisolara",
+      "AA Jerraya",
+      "J Feng"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A Verifiable and Correct-by-Construction Controller for Robots in Human Environments",
+    "year": 2015,
+    "venue": "HRI , 2015",
+    "abbr": "HRI",
+    "authors": [
+      "SB Lavindra de Silva",
+      "Rongjie Yan",
+      "Félix Ingrand",
+      "Rachid Alami"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "2014 Index IEEE Transactions on Software Engineering Vol. 40",
+    "year": 2015,
+    "venue": "IEEE Transactions on Software Engineering 41 (1), 105 , 2015",
+    "abbr": "TSE",
+    "authors": [
+      "E Andre",
+      "G Antoniol",
+      "W Araujo",
+      "V Arnaoudova",
+      "C Artho",
+      "D Athanasiou",
+      "..."
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Static Optimal Scheduling and Mapping of Synchronous Dataflow Graphs on a Heterogeneous Multiprocessor Platform with Model Checking",
+    "year": 2014,
+    "venue": "",
+    "abbr": "N/A",
+    "authors": [
+      "XY Zhu",
+      "R Yan",
+      "YL Gu",
+      "G Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Modeling and Verifying of CPS Component Services Based on Hybrid Automata",
+    "year": 2014,
+    "venue": "International Journal of Multimedia and Ubiquitous Engineering 9 (6), 49-58 , 2014",
+    "abbr": "N/A",
+    "authors": [
+      "J Zhang",
+      "G Zhang",
+      "R Yan",
+      "Y Zhu",
+      "X Qi"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Magiclock: Scalable detection of potential deadlocks in large-scale multithreaded programs",
+    "year": 2014,
+    "venue": "IEEE Transactions on Software Engineering 40 (3), 266-281 , 2014",
+    "abbr": "TSE",
+    "authors": [
+      "Y Cai",
+      "WK Chan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "ILP based multithreaded code generation for Simulink model",
+    "year": 2014,
+    "venue": "IEICE TRANSACTIONS on Information and Systems 97 (12), 3072-3082 , 2014",
+    "abbr": "IEICE",
+    "authors": [
+      "K Huang",
+      "M Yu",
+      "X Zhang",
+      "D Zheng",
+      "S Xiu",
+      "R Yan",
+      "Z LIU",
+      "X YAN"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Formal throughput and response time analysis of MARTE models",
+    "year": 2014,
+    "venue": "International Conference on Formal Engineering Methods, 430-445 , 2014",
+    "abbr": "N/A",
+    "authors": [
+      "G Yan",
+      "XY Zhu",
+      "R Yan",
+      "G Li"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Efficiently and completely verifying synchronized consistency models",
+    "year": 2014,
+    "venue": "International Symposium on Automated Technology for Verification and … , 2014",
+    "abbr": "N/A",
+    "authors": [
+      "Y Lv",
+      "L Sun",
+      "X Ye",
+      "D Fan",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "ConLock: A constraint-based approach to dynamic checking on deadlocks in multithreaded programs",
+    "year": 2014,
+    "venue": "Proceedings of the 36th international conference on software engineering … , 2014",
+    "abbr": "ICSE",
+    "authors": [
+      "Y Cai",
+      "S Wu",
+      "WK Chan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Communication-oriented performance optimisation during code generation from Simulink models",
+    "year": 2014,
+    "venue": "International Journal of Embedded Systems 6 (2-3), 124-134 , 2014",
+    "abbr": "N/A",
+    "authors": [
+      "R Yan",
+      "M Yu",
+      "K Huang",
+      "X Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Annotation and Analysis Combined Cache Modeling for Native Simulation",
+    "year": 2014,
+    "venue": "Design Automation Conference (ASP-DAC), 2014 19th Asia and South Pacific … , 2014",
+    "abbr": "ASP",
+    "authors": [
+      "R Yan",
+      "D Ma",
+      "K Huang",
+      "X Zhang",
+      "S Xiu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "ASN: a dynamic barrier-based approach to confirmation of deadlocks from warnings for large-scale multithreaded programs",
+    "year": 2014,
+    "venue": "IEEE Transactions on Parallel and Distributed Systems 26 (1), 13-23 , 2014",
+    "abbr": "N/A",
+    "authors": [
+      "Y Cai",
+      "C Jia",
+      "S Wu",
+      "K Zhai",
+      "WK Chan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A subsumption hierarchy of test case prioritization for composite services",
+    "year": 2014,
+    "venue": "IEEE Transactions on Services Computing 8 (5), 658-673 , 2014",
+    "abbr": "N/A",
+    "authors": [
+      "L Mei",
+      "Y Cai",
+      "C Jia",
+      "B Jiang",
+      "WK Chan",
+      "Z Zhang",
+      "TH Tse"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Test pair selection for test case prioritization in regression testing for WS-BPEL programs",
+    "year": 2013,
+    "venue": "International Journal of Web Services Research (IJWSR) 10 (1), 73-102 , 2013",
+    "abbr": "IJWSR",
+    "authors": [
+      "L Mei",
+      "Y Cai",
+      "C Jia",
+      "B Jiang",
+      "WK Chan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "TeamWork: synchronizing threads globally to detect real deadlocks for multithreaded programs",
+    "year": 2013,
+    "venue": "Proceedings of the 18th ACM SIGPLAN symposium on Principles and practice of … , 2013",
+    "abbr": "SIGPLAN",
+    "authors": [
+      "Y Cai",
+      "K Zhai",
+      "S Wu",
+      "WK Chan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Taming deadlocks in multithreaded programs",
+    "year": 2013,
+    "venue": "2013 13th International Conference on Quality Software, 276-279 , 2013",
+    "abbr": "N/A",
+    "authors": [
+      "Y Cai",
+      "WK Chan",
+      "YT Yu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Prioritizing structurally complex test pairs for validating WS-BPEL evolutions",
+    "year": 2013,
+    "venue": "2013 IEEE 20th International Conference on Web Services, 147-154 , 2013",
+    "abbr": "N/A",
+    "authors": [
+      "L Mei",
+      "Y Cai",
+      "C Jia",
+      "B Jiang",
+      "WK Chan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Performance estimation techniques with mpsoc transaction-accurate models",
+    "year": 2013,
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and … , 2013",
+    "abbr": "N/A",
+    "authors": [
+      "D Ma",
+      "R Yan",
+      "K Huang",
+      "M Yu",
+      "S Xiu",
+      "H Ge",
+      "X Yan",
+      "AA Jerraya"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Lock trace reduction for multithreaded programs",
+    "year": 2013,
+    "venue": "IEEE Transactions on Parallel and Distributed Systems 24 (12), 2407-2417 , 2013",
+    "abbr": "N/A",
+    "authors": [
+      "Y Cai",
+      "WK Chan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "In quest of the science in statistical fault localization",
+    "year": 2013,
+    "venue": "Software: Practice and Experience 43 (8), 971-987 , 2013",
+    "abbr": "SPE",
+    "authors": [
+      "WK Chan",
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "High throughput VLSI architecture for H. 264/AVC context-based adaptive binary arithmetic coding (CABAC) decoding",
+    "year": 2013,
+    "venue": "Journal of Zhejiang University SCIENCE C 14 (6), 449-463 , 2013",
+    "abbr": "SCIENCE",
+    "authors": [
+      "K Huang",
+      "D Ma",
+      "R Yan",
+      "H Ge",
+      "X Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Communication pipelining for code generation from Simulink models",
+    "year": 2013,
+    "venue": "2013 12th IEEE International Conference on Trust, Security and Privacy in … , 2013",
+    "abbr": "N/A",
+    "authors": [
+      "R Yan",
+      "K Huang",
+      "M Yu",
+      "X Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Assume-guarantee reasoning with local specifications",
+    "year": 2013,
+    "venue": "International Journal of Foundations of Computer Science 24 (04), 419-444 , 2013",
+    "abbr": "N/A",
+    "authors": [
+      "A Lomuscio",
+      "B Strulo",
+      "N Walker",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Static and dynamic verifying method based on extended finite automata for service compositions",
+    "year": 2012,
+    "venue": "Journal of China Institute of Communications 33 , 2012",
+    "abbr": "N/A",
+    "authors": [
+      "GQ Zhang",
+      "HJ Di",
+      "HJ Shi",
+      "RJ Yan",
+      "XY Zhu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "MagicFuzzer: Scalable deadlock detection for large-scale applications",
+    "year": 2012,
+    "venue": "2012 34th International Conference on Software Engineering (ICSE), 606-616 , 2012",
+    "abbr": "ICSE",
+    "authors": [
+      "Y Cai",
+      "WK Chan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Distributed priority synthesis using knowledge",
+    "year": 2012,
+    "venue": "Proceedings of the 2nd edition on Programming systems, languages and … , 2012",
+    "abbr": "N/A",
+    "authors": [
+      "CH Cheng",
+      "R Yan",
+      "H Ruess",
+      "S Bensalem"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Distributed Priority Synthesis",
+    "year": 2012,
+    "venue": "arXiv preprint arXiv:1211.6189 , 2012",
+    "abbr": "N/A",
+    "authors": [
+      "CH Cheng",
+      "R Yan",
+      "S Bensalem",
+      "H Ruess"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A dynamic deadlock prediction, confirmation and fixing frame-work for multithreaded programs",
+    "year": 2012,
+    "venue": "Doctoral Symposium of the 26th European Conference on Object-Oriented … , 2012",
+    "abbr": "N/A",
+    "authors": [
+      "Y Cai"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Model construction and priority synthesis for simple interaction systems",
+    "year": 2011,
+    "venue": "NASA Formal Methods Symposium, 466-471 , 2011",
+    "abbr": "NASA",
+    "authors": [
+      "CH Cheng",
+      "S Bensalem",
+      "B Jobstmann",
+      "R Yan",
+      "A Knoll",
+      "H Ruess"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "LOFT: redundant synchronization event removal for data race detection",
+    "year": 2011,
+    "venue": "2011 IEEE 22nd International Symposium on Software Reliability Engineering … , 2011",
+    "abbr": "N/A",
+    "authors": [
+      "Y Cai",
+      "WK Chan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Distributed Priority Synthesis and its Applications",
+    "year": 2011,
+    "venue": "arXiv preprint arXiv:1112.1783 , 2011",
+    "abbr": "N/A",
+    "authors": [
+      "CH Cheng",
+      "S Bensalem",
+      "R Yan",
+      "H Ruess",
+      "C Buckl",
+      "A Knoll"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "D-finder 2: Towards efficient correctness of incremental design",
+    "year": 2011,
+    "venue": "Nasa Formal Methods Symposium, 453-458 , 2011",
+    "abbr": "N/A",
+    "authors": [
+      "S Bensalem",
+      "A Griesmayer",
+      "A Legay",
+      "TH Nguyen",
+      "J Sifakis",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Algorithms for synthesizing priorities in component-based systems",
+    "year": 2011,
+    "venue": "International Symposium on Automated Technology for Verification and … , 2011",
+    "abbr": "N/A",
+    "authors": [
+      "CH Cheng",
+      "S Bensalem",
+      "YF Chen",
+      "R Yan",
+      "B Jobstmann",
+      "H Ruess",
+      "..."
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A formal approach for incremental construction with an application to autonomous robotic systems",
+    "year": 2011,
+    "venue": "International Conference on Software Composition, 116-132 , 2011",
+    "abbr": "N/A",
+    "authors": [
+      "S Bensalem",
+      "L De Silva",
+      "A Griesmayer",
+      "F Ingrand",
+      "A Legay",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A Verifiable and Correct-by-Construction Controller for Robot Functional Levels",
+    "year": 2011,
+    "venue": "Joser 2 (1), 1-19 , 2011",
+    "abbr": "N/A",
+    "authors": [
+      "RY Saddek Bensalem",
+      "Lavindra De Silva",
+      "Felix Ingrand"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Verifiable and correct-by-construction controller for robots in human environments",
+    "year": 2010,
+    "venue": "seventh IARP workshop on technical challenges for dependable robots in human … , 2010",
+    "abbr": "IARP",
+    "authors": [
+      "S Bensalem",
+      "L da Silva",
+      "M Gallien",
+      "F Ingrand",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Rock Solid",
+    "year": 2010,
+    "venue": "Software: A Verifiable and Correct-by-Construction Controller for Rover and … , 2010",
+    "abbr": "N/A",
+    "authors": [
+      "S Bensalem",
+      "L De Silva",
+      "M Gallien",
+      "F Ingrand",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Model checking optimisation based congestion control algorithms",
+    "year": 2010,
+    "venue": "Fundamenta Informaticae 102 (1), 77-96 , 2010",
+    "abbr": "N/A",
+    "authors": [
+      "A Lomuscio",
+      "B Strulo",
+      "NG Walker",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Incremental invariant generation for compositional design",
+    "year": 2010,
+    "venue": "2010 4th IEEE International Symposium on Theoretical Aspects of Software … , 2010",
+    "abbr": "N/A",
+    "authors": [
+      "S Bensalem",
+      "A Legay",
+      "TH Nguyen",
+      "J Sifakis",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Incremental component-based construction and verification using invariants",
+    "year": 2010,
+    "venue": "Formal Methods in Computer Aided Design, 257-256 , 2010",
+    "abbr": "N/A",
+    "authors": [
+      "S Bensalem",
+      "M Bozga",
+      "A Legay",
+      "TH Nguyen",
+      "J Sifakis",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "A refinement checking method of web services composition",
+    "year": 2010,
+    "venue": "2010 Fifth IEEE International Symposium on Service Oriented System … , 2010",
+    "abbr": "N/A",
+    "authors": [
+      "G Zhang",
+      "M Rong",
+      "Y He",
+      "X Zhu",
+      "R Yan"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Verification, model checking, Markov processes, stochastic processes.",
+    "year": 2009,
+    "venue": "the IEEE Computer Society. , 2009",
+    "abbr": "N/A",
+    "authors": [
+      "G Norman",
+      "C Palamidessi",
+      "D Parker",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Truly bitstate-hashing for scc-based emptiness checking algorithms",
+    "year": 2008,
+    "venue": "Chinese Journal of Computers 31 (6), 979-988 , 2008",
+    "abbr": "N/A",
+    "authors": [
+      "RJ Yan",
+      "WL Zhang",
+      "ZS Tang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Model checking probabilistic and stochastic extensions of the π-calculus",
+    "year": 2008,
+    "venue": "IEEE Transactions on Software engineering 35 (2), 209-223 , 2008",
+    "abbr": "TSE",
+    "authors": [
+      "G Norman",
+      "C Palamidessi",
+      "D Parker",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "一种基于模型的并发系统测试目的描述",
+    "year": 2007,
+    "venue": "计算机工程与应用 43 (25), 105-110 , 2007",
+    "abbr": "N/A",
+    "authors": [
+      "刘大光， 林惠民， 吴鹏"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Translating the probabilistic pi-calculus to PRISM",
+    "year": 2007,
+    "venue": "SCHOOL OF COMPUTER SCIENCE RESEARCH REPORTS-UNIVERSITY OF BIRMINGHAM CSR 2 , 2007",
+    "abbr": "SCHOOL",
+    "authors": [
+      "G Norman",
+      "C Palamidessi",
+      "D Parker",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Translating the Probabilistic p-calculus to PRISM, Technical Report CSR-07-2",
+    "year": 2007,
+    "venue": "University of Birmingham , 2007",
+    "abbr": "N/A",
+    "authors": [
+      "G Norman",
+      "C Palamidessi",
+      "D Parker",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Symbolic test generation using a temporal logic with constrained events",
+    "year": 2007,
+    "venue": "Formal methods and hybrid real-time systems, 467-471 , 2007",
+    "abbr": "N/A",
+    "authors": [
+      "D Liu",
+      "P Wu",
+      "H Lin"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Symbolic bisimulations for probabilistic systems",
+    "year": 2007,
+    "venue": "Fourth International Conference on the Quantitative Evaluation of Systems … , 2007",
+    "abbr": "N/A",
+    "authors": [
+      "P Wu",
+      "C Palamidessi",
+      "H Lin"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Improvements for the Symbolic Verification of Timed Automata",
+    "year": 2007,
+    "venue": "International Conference on Formal Techniques for Networked and Distributed … , 2007",
+    "abbr": "N/A",
+    "authors": [
+      "R Yan",
+      "G Li",
+      "W Zhang",
+      "Y Peng"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Gethin Norman, Catuscia Palamidessi, David Parker, Peng Wu. Model checking the probabilistic pi-calculus. 4th International Conference on the Quantitative Evaluation of SysTems …",
+    "year": 2007,
+    "venue": "< bound method Organization. get_name_with_acronym of< Organization: Inria … , 2007",
+    "abbr": "N/A",
+    "authors": [
+      "G Norman",
+      "C Palamidessi",
+      "D Parker",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Reachability checking of finite precision timed automata",
+    "year": 2006,
+    "venue": "Journal of Software 17 (1), 1-10 , 2006",
+    "abbr": "N/A",
+    "authors": [
+      "Y RJ",
+      "L GY",
+      "X YB",
+      "L CM",
+      "T ZS"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Model-based testing of concurrent programs with predicate sequencing oonstraints",
+    "year": 2006,
+    "venue": "International Journal of Software Engineering and Knowledge Engineering 16 … , 2006",
+    "abbr": "N/A",
+    "authors": [
+      "W Peng",
+      "L Huimin"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Measuring anonymity with relative entropy",
+    "year": 2006,
+    "venue": "International Workshop on Formal Aspects in Security and Trust, 65-79 , 2006",
+    "abbr": "N/A",
+    "authors": [
+      "Y Deng",
+      "J Pang",
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "并发系统的模型检测与测试",
+    "year": 2005,
+    "venue": "中国科学院研究生院 (软件研究所) , 2005",
+    "abbr": "N/A",
+    "authors": [
+      "吴鹏"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "关于蜕变测试和特殊用例测试的实例研究",
+    "year": 2005,
+    "venue": "Journal of Software 16 (7), 1210-1220 , 2005",
+    "abbr": "N/A",
+    "authors": [
+      "吴鹏， 施小纯， 唐江峻， 林惠民， 陈宗岳"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "中 国 科 学 院 软 件 研 究 所 计 算 机 科 学 实 验 室 报 告",
+    "year": 2005,
+    "venue": "",
+    "abbr": "N/A",
+    "authors": [
+      "P Wu",
+      "D Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Symbolic model checking of finite precision timed automata",
+    "year": 2005,
+    "venue": "International Colloquium on Theoretical Aspects of Computing, 272-287 , 2005",
+    "abbr": "N/A",
+    "authors": [
+      "R Yan",
+      "G Li",
+      "Z Tang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Iterative metamorphic testing",
+    "year": 2005,
+    "venue": "29th Annual International Computer Software and Applications Conference … , 2005",
+    "abbr": "N/A",
+    "authors": [
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Compositional analysis of mobile network protocols",
+    "year": 2005,
+    "venue": "Technical Report ISCAS-LCS-05-02, Lab of Computer Science, Institute of … , 2005",
+    "abbr": "ISCAS",
+    "authors": [
+      "P Wu",
+      "D Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Compositional Modelling and Verification of IPv6 Mobility",
+    "year": 2005,
+    "venue": "Formal Techniques for Networked and Distributed Systems-FORTE 2005, 553-556 , 2005",
+    "abbr": "FORTE",
+    "authors": [
+      "P Wu",
+      "D Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Analyzing interoperability of protocols using model checking",
+    "year": 2005,
+    "venue": "CHINESE JOURNAL OF ELECTRONICS 14 (3), 453 , 2005",
+    "abbr": "CHINESE",
+    "authors": [
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Compositional analysis of mobile IP with symbolic transition graphs",
+    "year": 2004,
+    "venue": "16th International Conference on Computer Communication, 1481-1488 , 2004",
+    "abbr": "N/A",
+    "authors": [
+      "P Wu",
+      "D Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Interpreting π-calculus with Spin/Promela",
+    "year": 2003,
+    "venue": "Computer Science 8 (7), 9 , 2003",
+    "abbr": "N/A",
+    "authors": [
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Component-based software architecture refinement and its application",
+    "year": 2003,
+    "venue": "JOURNAL-CHONGQING NORMAL UNIVERSITY NATURAL SCIENCE EDITION 20 (2), 1-5 , 2003",
+    "abbr": "JOURNAL",
+    "authors": [
+      "R Yan",
+      "G Zhang"
+    ],
+    "source": "Google Scholar"
+  },
+  {
+    "title": "Validation, implementation and conformance testing of Bluetooth SDP",
+    "year": 2001,
+    "venue": "Master's thesis, Insitute of Software, Chinese Academy of Sciences , 2001",
+    "abbr": "N/A",
+    "authors": [
+      "P Wu"
+    ],
+    "source": "Google Scholar"
+  }
+]
