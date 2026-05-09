@@ -68,7 +68,7 @@ i18n_description: team.description
     </div>
   </div>
     <div class="member-card">
-    <img src="{{ 'images/吴鹏.jpg' | relative_url }}" class="member-photo" alt="吴鹏">
+    <img src="{{ 'images/吴鹏.png' | relative_url }}" class="member-photo" alt="吴鹏">
     <div class="member-name">吴鹏</div>
     <div class="member-desc">副研究员，硕导</div>
     <div class="member-links">
@@ -300,7 +300,7 @@ i18n_description: team.description
     </div>
   </div>
   <div class="member-card">
-    <img src="{{ 'images/何甲文泽.jpg' | relative_url }}" class="member-photo" alt="何甲文泽">
+    <img src="{{ 'images/何甲文泽.png' | relative_url }}" class="member-photo" alt="何甲文泽">
     <div class="member-name">何甲文泽</div>
     <div class="member-desc">2025 - 现在</div>
     <div class="member-links">
@@ -378,7 +378,7 @@ i18n_description: team.description
     </div>
   </div>
   <div class="member-card">
-    <img src="{{ 'images/黄宣祺.jpg' | relative_url }}" class="member-photo" alt="黄宣祺">
+    <img src="{{ 'images/黄宣祺.png' | relative_url }}" class="member-photo" alt="黄宣祺">
     <div class="member-name">黄宣祺</div>
     <div class="member-desc">2024 - 现在</div>
     <div class="member-links">

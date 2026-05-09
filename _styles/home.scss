@@ -1,0 +1,53 @@
+---
+---
+
+/* Homepage card sections: use dedicated layout to avoid mixed surface rendering. */
+.home-cards .cols {
+  gap: 28px;
+  align-items: stretch;
+}
+
+.home-cards .cols > div {
+  display: flex;
+}
+
+.home-cards .card {
+  --home-card-surface: var(--background);
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  height: 100%;
+  position: relative;
+  background-color: var(--home-card-surface);
+  border: 1px solid var(--light-gray);
+  box-shadow: none;
+  background-clip: padding-box;
+}
+
+/*
+  Keep card surface consistent while scrolling between sections.
+  This avoids visible mismatch between image area and text area.
+*/
+.home-cards .card,
+.home-cards .card-image {
+  background-color: var(--home-card-surface);
+  opacity: 1;
+}
+
+.home-cards .card-image img {
+  background-color: var(--home-card-surface);
+}
+
+.home-cards--team .card {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.06);
+}
+
+.home-cards--team .card-text {
+  align-items: flex-start;
+  text-align: left;
+  gap: 12px;
+}
+
+.home-cards--team .card-title {
+  font-size: 1.2rem;
+}

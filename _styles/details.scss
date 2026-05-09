@@ -24,7 +24,7 @@ summary:hover {
   background: var(--light-gray);
 }
 
-details[open] summary {
+details[open] > summary {
   background: var(--light-gray);
 }
 
@@ -38,6 +38,6 @@ summary::before {
   height: 1em;
 }
 
-details[open] summary::before {
+details[open] > summary::before {
   transform: rotate(90deg);
 }
