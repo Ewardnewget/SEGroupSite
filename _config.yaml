@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Ewardnewget
+title: 软件测试与分析研究室
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: 软件测试与分析研究室隶属于中国科学院软件研究所。我们致力于程序分析、软件测试、自动推理和约束求解等领域的研究。
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
