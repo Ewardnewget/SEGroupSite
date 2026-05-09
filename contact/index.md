@@ -7,7 +7,6 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}<span data-i18n="contact.title">{% include i18n-text.html key="contact.title" %}</span>
 <p data-i18n="contact.intro">{% include i18n-text.html key="contact.intro" %}</p>
 
 {%
@@ -16,12 +15,6 @@ nav:
   text="yancai@ios.ac.cn"
   link="mailto:yancai@ios.ac.cn"
 %}
-{% capture location_tooltip %}{% include i18n-text.html key='contact.location_tooltip' %}{% endcapture %}
-{%
-  include button.html
-  type="address"
-  i18nTooltip="contact.location_tooltip"
-  tooltip=location_tooltip
-  link="https://www.google.com/maps"
-%}
+
+<p>{% include icon.html icon="fa-solid fa-map-location-dot" %} 北京市海淀区中关村南四街4号 中国科学院软件研究所</p>
 

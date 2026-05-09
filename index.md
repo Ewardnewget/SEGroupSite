@@ -29,13 +29,13 @@ i18n_description: home.intro
 <h2 class="center" data-i18n="home.team_title">{% include i18n-text.html key="home.team_title" %}</h2>
 
 {% capture col1 %}
-{% include card.html title="职工" description="国家杰青在内的高水平团队，职工9人。" link="team/#faculty" %}
+{% include card.html image="images/photo.jpg" title="职工" description="国家杰青在内的高水平团队，职工9人。" link="team/#faculty" %}
 {% endcapture %}
 {% capture col2 %}
-{% include card.html title="学生" description="在培学生数十人，拥有完善的硕博培养体系。" link="team/#students" %}
+{% include card.html image="images/photo.jpg" title="学生" description="在培学生数十人，拥有完善的硕博培养体系。" link="team/#students" %}
 {% endcapture %}
 {% capture col3 %}
-{% include card.html title="毕业生" description="已培养学生过百人，入职华为、字节、腾讯、科研院所、国央企等企事业单位，多位获得国家奖学金、北京市优秀毕业生等荣誉称号。" link="team/#alumni" %}
+{% include card.html image="images/photo.jpg" title="毕业生" description="已培养学生过百人，入职华为、字节、腾讯、科研院所、国央企等企事业单位，多位获得国家奖学金、北京市优秀毕业生等荣誉称号。" link="team/#alumni" %}
 {% endcapture %}
 <div class="home-cards home-cards--team">
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
