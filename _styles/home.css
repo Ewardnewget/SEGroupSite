@@ -34,18 +34,4 @@
   background-color: var(--home-card-surface);
 }
 
-.home-cards--team .card {
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.06);
-}
-
-.home-cards--team .card-text {
-  align-items: flex-start;
-  text-align: left;
-  gap: 12px;
-}
-
-.home-cards--team .card-title {
-  font-size: 1.2rem;
-}
-
 /*# sourceMappingURL=home.css.map */
