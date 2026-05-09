@@ -21,17 +21,16 @@
   background-color: var(--home-card-surface);
   border: 1px solid var(--light-gray);
   box-shadow: none;
-  background-clip: padding-box;
+  isolation: isolate;
 }
 
 /*
-  Keep card surface consistent while scrolling between sections.
-  This avoids visible mismatch between image area and text area.
+  Keep card surface consistent while scrolling.
+  Use the same variable on all sub-areas so the compositor sees a single colour.
 */
-.home-cards .card,
 .home-cards .card-image {
   background-color: var(--home-card-surface);
-  opacity: 1;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .home-cards .card-image img {
