@@ -34,124 +34,18 @@
   background-color: var(--home-card-surface);
 }
 
-/* Team stat cards */
-.home-team-stats {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 28px;
-  margin: 40px 0;
+.home-cards--team .card {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.06);
 }
 
-@media (max-width: 600px) {
-  .home-team-stats {
-    grid-template-columns: 1fr;
-    max-width: 360px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
-.team-stat {
-  background: var(--background);
-  border: 1px solid var(--light-gray);
-  border-top: 3px solid var(--primary);
-  border-radius: var(--rounded);
-  padding: 28px 20px 24px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 8px;
-  text-align: center;
-  transition: box-shadow var(--transition);
-}
-
-.team-stat:hover {
-  box-shadow: 0 4px 20px var(--overlay);
-}
-
-.team-stat-num {
-  font-size: 2.8rem;
-  font-weight: var(--bold);
-  font-family: var(--heading);
-  color: var(--primary);
-  line-height: 1.1;
-}
-
-.team-stat-title {
-  font-family: var(--heading);
-  font-weight: var(--semi-bold);
-  font-size: 1.15rem;
-  color: var(--text);
-  text-decoration: none;
-  transition: color var(--transition);
-}
-
-.team-stat-title:hover {
-  color: var(--primary);
-}
-
-.team-stat-desc {
-  font-size: 0.88rem;
-  color: var(--gray);
-  margin: 4px 0 0;
-  line-height: 1.55;
-}
-
-/* Homepage news mini-list */
-.home-news {
-  max-width: 760px;
-  margin: 20px auto 0;
+.home-cards--team .card-text {
+  align-items: flex-start;
   text-align: left;
+  gap: 12px;
 }
 
-.home-news-item {
-  display: flex;
-  align-items: baseline;
-  gap: 10px;
-  padding: 11px 0;
-  border-bottom: 1px solid var(--light-gray);
-}
-
-.home-news-tag {
-  display: inline-block;
-  font-size: 0.72rem;
-  padding: 2px 9px;
-  border-radius: 999px;
-  background: var(--primary);
-  color: #fff;
-  white-space: nowrap;
-  flex-shrink: 0;
-  font-weight: var(--semi-bold);
-}
-
-.home-news-date {
-  color: var(--gray);
-  font-size: 0.82rem;
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-
-.home-news-title {
-  font-size: 0.9rem;
-  line-height: 1.5;
-  color: var(--text);
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-.home-news-more {
-  display: block;
-  margin-top: 14px;
-  text-align: right;
-  color: var(--primary);
-  font-size: 0.88rem;
-  text-decoration: none;
-  transition: color var(--transition);
-}
-
-.home-news-more:hover {
-  color: var(--text);
+.home-cards--team .card-title {
+  font-size: 1.2rem;
 }
 
 /*# sourceMappingURL=home.css.map */
