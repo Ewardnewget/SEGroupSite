@@ -64,8 +64,8 @@ i18n_description: home.intro
 
 <br>
 <ul>
-  <li><strong>2026.05.01:</strong> 1篇论文被人工智能领域国际顶级会议 ICML 2026 录用。</li>
-  <li><strong>2026.04.16:</strong> 最新研究成果被软件工程领域国际顶级会议 ISSTA 2026 录用。</li>
+  <li><strong>2026.05:</strong> 1篇论文被人工智能领域国际顶级会议 ICML 2026 录用。</li>
+  <li><strong>2026.04:</strong> 最新研究成果被软件工程领域国际顶级会议 ISSTA 2026 录用。</li>
   <li><strong>2025.07:</strong> 张健研究院荣获 QRS 二十五周年特别荣誉奖。</li>
 </ul>
 
