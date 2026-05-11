@@ -26,37 +26,23 @@ i18n_description: home.intro
 
 {% include section.html %}
 
-<h2 class="center" data-i18n="home.team_title">{% include i18n-text.html key="home.team_title" %}</h2>
+{% capture team_text %}
+团队汇聚了包括国家杰青在内的9名高水平科研人员。目前在培硕博学生30余人，拥有完善的培养体系；已培养毕业生60余人，多数入职华为、字节、腾讯、大院大所、国央企等企事业单位，多名同学曾获得国家奖学金、北京市优秀毕业生等荣誉称号。
 
-{% capture col1 %}
-{% include card.html image="images/photo.jpg" title="职工" description="国家杰青在内的高水平团队，职工9人。" link="team/#faculty" %}
+{% include button.html text="了解团队" link="team" %}
 {% endcapture %}
-{% capture col2 %}
-{% include card.html image="images/students.jpg" title="学生" description="在培学生30余人，拥有完善的硕博培养体系。" link="team/#students" %}
-{% endcapture %}
-{% capture col3 %}
-{% include card.html image="images/graduate.jpg" title="毕业生" description="已培养学生60余人，入职华为、字节、腾讯、科研院所、国央企等企事业单位，多位获得国家奖学金、北京市优秀毕业生等荣誉称号。" link="team/#alumni" %}
-{% endcapture %}
-<div class="home-cards home-cards--team">
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
-</div>
+
+{% include feature.html image="images/students.jpg" i18nTitle="home.team_title" text=team_text %}
 
 {% include section.html dark=true %}
 
-<h2 class="center" data-i18n="home.projects_title">{% include i18n-text.html key="home.projects_title" %}</h2>
+{% capture projects_text %}
+团队在软件工程、形式化方法、人工智能等领域的国际顶级会议和期刊上发表高水平论文数百篇。先后承接了国家重点研发计划、国家自然科学基金重点项目、中国科学院A类先导等国家级或省部级重大科研任务。同时，与国内外知名高校（如清北南大、UCLA、NUS等）以及华为、字节、阿里巴巴等业内领军企业持续开展深度广泛的合作。
 
-{% capture col1 %}
-{% include card.html image="images/Papers.jpg" title="刊物发表" description="在软件工程、形式化、人工智能等领域的国际顶级会议和期刊发表论文数百篇。" link="publications" %}
+{% include button.html text="更多成果" link="publications" %}
 {% endcapture %}
-{% capture col2 %}
-{% include card.html image="images/photo.jpg" title="承接项目" description="承接国家重点研发计划、国自然重点、中国科学院A类先导等国家级或省部级重点项目。" link="contact" %}
-{% endcapture %}
-{% capture col3 %}
-{% include card.html image="images/photo.jpg" title="合作" description="与国内外知名高校（清北南大、UCLA、NUS等）以及华为、字节、阿里巴巴等业内领军企业开展广泛合作。" link="contact" %}
-{% endcapture %}
-<div class="home-cards home-cards--projects">
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
-</div>
+
+{% include feature.html image="images/Papers.jpg" i18nTitle="home.projects_title" text=projects_text %}
 
 {% include section.html %}
 
@@ -68,4 +54,8 @@ i18n_description: home.intro
   <li><strong>2026.04:</strong> 最新研究成果被软件工程领域国际顶级会议 ISSTA 2026 录用。</li>
   <li><strong>2025.07:</strong> 张健研究院荣获 QRS 二十五周年特别荣誉奖。</li>
 </ul>
+
+<div style="text-align: center; margin-top: 30px;">
+{% include button.html text="更多动态" link="news" %}
+</div>
 
