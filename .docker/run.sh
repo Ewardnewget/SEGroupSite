@@ -28,9 +28,7 @@ docker build ${PLATFORM} \
 ${DOCKER_RUN} ${PLATFORM} \
     --name ${CONTAINER} \
     --init \
-    --rm \
-    --interactive \
-    --tty \
+    --detach \
     --publish 4000:4000 \
     --publish 35729:35729 \
     --volume "${WORKING_DIR}:/usr/src/app" \
