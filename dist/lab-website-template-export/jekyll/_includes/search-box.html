@@ -1,0 +1,19 @@
+<div class="search-box">
+  <input
+    type="text"
+    class="search-input"
+    oninput="onSearchInput(this)"
+    data-i18n-placeholder="search.page_placeholder"
+    placeholder="{% include i18n-text.html key='search.page_placeholder' %}"
+  />
+  <button
+    disabled
+    data-i18n-tooltip="search.clear"
+    data-tooltip="{% include i18n-text.html key='search.clear' %}"
+    data-i18n-aria="search.clear"
+    aria-label="{% include i18n-text.html key='search.clear' %}"
+    onclick="onSearchClear()"
+  >
+    {% include icon.html icon="fa-solid fa-magnifying-glass" %}
+  </button>
+</div>

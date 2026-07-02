@@ -1,0 +1,20 @@
+{% assign image = page.footer | default: site.footer %}
+{% assign dark = page.footer-dark | is_nil: site.footer-dark | is_nil: true %}
+
+<footer
+  class="background"
+  style="--image: url('{{ image | relative_url | uri_escape }}')"
+  {% if dark == true or dark == false %}
+    data-dark="{{ dark }}"
+  {% endif %}
+  data-size="wide"
+>
+  <div>
+    Contact: {{ site.links.email | default: "contact@example.com" }}
+  </div>
+
+  <div>
+    &copy; {{ site.time | date: "%Y" }}
+    <span data-i18n="site.title">{% include i18n-text.html key="site.title" %}</span>
+  </div>
+</footer>

@@ -1,0 +1,54 @@
+<div class="post-info">
+  {% if include.author %}
+    {% assign authors = include.author
+      | join: ","
+      | downcase
+      | split: ","
+      | array_filter
+    %}
+    {% for author in authors %}
+      {% assign member = site.members
+        | where_exp: "member", "member.slug == author"
+        | first
+      %}
+      {% if member %}
+        {% include portrait.html lookup=author style="tiny" %}
+      {% else %}
+        <span
+          data-i18n-tooltip="post.author_tooltip"
+          data-tooltip="{% include i18n-text.html key='post.author_tooltip' %}"
+        >
+          {% include icon.html icon="fa-solid fa-feather-pointed" %}
+          <span>{{ author }}</span>
+        </span>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% assign published = include.published | date: "%B %d, %Y" %}
+  {% assign updated = include.updated | date: "%B %d, %Y" %}
+
+  {% if published %}
+    <span
+      data-i18n-tooltip="post.published_tooltip"
+      data-tooltip="{% include i18n-text.html key='post.published_tooltip' %}"
+    >
+      {% include icon.html icon="fa-regular fa-calendar" %}
+      <span>{{ published }}</span>
+    </span>
+  {% endif %}
+
+  {% if updated and updated != "" and updated != published %}
+    <span
+      data-i18n-tooltip="post.updated_tooltip"
+      data-tooltip="{% include i18n-text.html key='post.updated_tooltip' %}"
+    >
+      {% include icon.html icon="fa-solid fa-clock-rotate-left" %}
+      <span>{{ updated }}</span>
+    </span>
+  {% endif %}
+</div>
+
+{% if include.tags %}
+  {% include tags.html tags=include.tags link="news" %}
+{% endif %}

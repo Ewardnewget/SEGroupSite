@@ -1,0 +1,34 @@
+{% assign tags = include.tags
+  | object_items
+  | join: ","
+  | downcase
+  | split: ","
+  | array_filter
+  | join: ","
+  | regex_replace: "\s+", "-"
+  | split: ","
+  | uniq
+%}
+{% assign link = include.link | default: page.dir %}
+{% if tags.size > 0 or include.repo %}
+  <div
+    class="tags"
+    {% if include.repo %}
+      data-repo="{{ include.repo | xml_escape }}"
+    {% endif %}
+  >
+    {% for tag in tags %}
+      {% capture tag_tooltip %}{% include i18n-text.html key="search.tags_tooltip" %}{% endcapture %}
+      {% assign tag_placeholder = "{tag}" %}
+      <a
+        href="{{ link | relative_url }}?search=&quot;tag: {{ tag }}&quot;"
+        class="tag"
+        data-tag="{{ tag | xml_escape }}"
+        data-i18n-tooltip-template="search.tags_tooltip"
+        data-tooltip="{{ tag_tooltip | replace: tag_placeholder, tag | xml_escape }}"
+      >
+        {{ tag }}
+      </a>
+    {% endfor %}
+  </div>
+{% endif %}

@@ -1,0 +1,10 @@
+{% assign lang = include.lang | default: "zh" %}
+{% assign key = include.key | default: "" %}
+{% assign parts = key | split: "." %}
+{% assign value = site.data.i18n[lang] %}
+{% for part in parts %}
+  {% if value and part != "" %}
+    {% assign value = value[part] %}
+  {% endif %}
+{% endfor %}
+{{ value | default: "" }}

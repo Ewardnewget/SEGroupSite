@@ -1,0 +1,41 @@
+title: Lab Website Template
+subtitle: ''
+description: An academic lab website built with the Lab Website Template.
+header: images/background.jpg
+footer: images/background.jpg
+links:
+  email: contact@example.com
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
+- scope:
+    type: members
+  values:
+    layout: member
+- scope:
+    type: posts
+  values:
+    layout: post
+collections:
+  members:
+    output: true
+  posts:
+    output: true
+plugins:
+- jekyll-spaceship
+- jekyll-sitemap
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-last-modified-at
+highlighter: rouge
+theme: null
+sass:
+  sass_dir: _styles
+include:
+- _styles
+- _scripts
+exclude:
+- README.md
+- LICENSE.md
